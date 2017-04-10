@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="Resource-type" content="Document" />
 
 
-    <link rel="stylesheet" type="text/css" href="/assets/plugins/fullpagejs/jquery.fullPage.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/plugins/fullpagejs/jquery.fullpage.css" />
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
 
     <!--[if IE]>
@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 
-    <script type="text/javascript" src="/assets/plugins/fullpagejs/jquery.fullPage.js"></script>
+    <script type="text/javascript" src="/assets/plugins/fullpagejs/jquery.fullpage.js"></script>
     <script type="text/javascript" src="/assets/js/main.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
