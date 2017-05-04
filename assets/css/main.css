@@ -242,3 +242,21 @@ p{
 	z-index: 999;
  }
 
+.next-button {
+	height: 45px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background: #999999;
+	left: 0;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	color: #fff;
+}
+.next-button .fa {
+	margin-right: 10px;
+}
+#timeline-wrapper .fp-tableCell {
+	vertical-align: top !important;
+}
