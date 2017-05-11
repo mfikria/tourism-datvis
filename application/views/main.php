@@ -61,8 +61,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js" charset="utf-8"></script>
     <script src="/assets/js/mapael/jquery.mapael.js" charset="utf-8"></script>
     <script src="https://rawgit.com/aterrien/jQuery-Knob/master/dist/jquery.knob.min.js" charset="utf-8"></script>
-    <script src="/assets/js/mapael/maps/world_countries.js" charset="utf-8"></script>
-    <script src="/assets/js/map.js" charset="utf-8"></script>
 
 </head>
 <body>
@@ -131,6 +129,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </p>
     </div>
 </div>
+
+<!-- Map -->
+<script src="/assets/js/mapael/maps/world_countries.js" charset="utf-8"></script>
+<script src="/assets/js/map.js" charset="utf-8"></script>
 
 </body>
 </html>
