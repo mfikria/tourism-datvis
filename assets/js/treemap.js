@@ -75,7 +75,7 @@ d3.json("assets/json/casualties.json", function(error, data) {
 });
 
 function sumByCount(d) {
-  return d.children ? 0 : 1;
+  return d.percentage;
 }
 
 function sumBySize(d) {
