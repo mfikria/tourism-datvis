@@ -410,6 +410,6 @@ function updateBarChart(group, colorChosen) {
 			.attr("y", 15)
 			.attr("class","title")				
 			.attr("text-anchor", "middle")
-			.text(group + "'s World War II Details")
+			.text(group + "'s Power Details in World War II")
 		;
 }

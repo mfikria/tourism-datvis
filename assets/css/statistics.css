@@ -27,3 +27,12 @@ text, text.xAxis, text.yAxis {
 .white {
 	color: white !important;
 }
+
+#treemap-title {
+	font-family: 'Dosis';
+	font-size: 30px;
+	font-weight: 600;
+	text-transform: uppercase;
+	fill: white;
+	color: white;
+}

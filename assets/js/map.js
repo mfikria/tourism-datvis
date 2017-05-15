@@ -2,2774 +2,2774 @@ $(function () {
 
     // Fake data for countries and cities from 2003 to 2013
     var data = {
-        "2003": {
+        "Military Deaths": {
             "areas": {
                 "AF": {
-                    "value": 23811026,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Afghanistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Population : 23811026"
+                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br /> Military Deaths : 0"
                     }
                 },
                 "ZA": {
-                    "value": 43635718,
+                    "value": 11900,
                     "href": "http://en.wikipedia.org/w/index.php?search=South Africa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Population : 43635718"
+                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Military Deaths : 11900"
                     }
                 },
                 "AL": {
-                    "value": 28472433,
+                    "value": 30000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Albania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Population : 28472433"
+                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Military Deaths : 30000"
                     }
                 },
                 "DZ": {
-                    "value": 7013507,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Algeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Population : 7013507"
+                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Military Deaths : 0"
                     }
                 },
                 "DE": {
-                    "value": 36848343,
+                    "value": 4879000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Germany",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Population : 36848343"
+                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Military Deaths : 4879000"
                     }
                 },
                 "AD": {
-                    "value": 30847009,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Andorra",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Population : 30847009"
+                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Military Deaths : 0"
                     }
                 },
                 "AO": {
-                    "value": 971957,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Angola",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Population : 971957"
+                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Military Deaths : 0"
                     }
                 },
                 "AG": {
-                    "value": 38155365,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Antigua And Barbuda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Population : 38155365"
+                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Military Deaths : 0"
                     }
                 },
                 "SA": {
-                    "value": 35729605,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saudi Arabia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Population : 35729605"
+                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Military Deaths : 0"
                     }
                 },
                 "AR": {
-                    "value": 32448340,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Argentina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Population : 32448340"
+                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Military Deaths : 0"
                     }
                 },
                 "AM": {
-                    "value": 44485739,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Armenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Population : 44485739"
+                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Military Deaths : 0"
                     }
                 },
                 "AU": {
-                    "value": 22851324,
+                    "value": 39700,
                     "href": "http://en.wikipedia.org/w/index.php?search=Australia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Population : 22851324"
+                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Military Deaths : 39700"
                     }
                 },
                 "AT": {
-                    "value": 3607937,
+                    "value": 4879000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Austria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Population : 3607937"
+                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Military Deaths : 4879000"
                     }
                 },
                 "AZ": {
-                    "value": 9130334,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Azerbaijan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Population : 9130334"
+                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Military Deaths : 0"
                     }
                 },
                 "BS": {
-                    "value": 7391903,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahamas",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Population : 7391903"
+                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Military Deaths : 0"
                     }
                 },
                 "BH": {
-                    "value": 26617010,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahrain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Population : 26617010"
+                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Military Deaths : 0"
                     }
                 },
                 "BD": {
-                    "value": 13486465,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bangladesh",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Population : 13486465"
+                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Military Deaths : 0"
                     }
                 },
                 "BB": {
-                    "value": 11433618,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Barbados",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Population : 11433618"
+                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Military Deaths : 0"
                     }
                 },
                 "BE": {
-                    "value": 7618576,
+                    "value": 12000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belgium",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Population : 7618576"
+                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Military Deaths : 12000"
                     }
                 },
                 "BZ": {
-                    "value": 25118048,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belize",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Population : 25118048"
+                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Military Deaths : 0"
                     }
                 },
                 "BJ": {
-                    "value": 48518314,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Benin",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Population : 48518314"
+                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Military Deaths : 0"
                     }
                 },
                 "BT": {
-                    "value": 59948816,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bhutan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Population : 59948816"
+                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Military Deaths : 0"
                     }
                 },
                 "BY": {
-                    "value": 13343881,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belarus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Population : 13343881"
+                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Military Deaths : 0"
                     }
                 },
                 "MM": {
-                    "value": 23970062,
+                    "value": 2600,
                     "href": "http://en.wikipedia.org/w/index.php?search=Myanmar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Population : 23970062"
+                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Military Deaths : 2600"
                     }
                 },
                 "BO": {
-                    "value": 2006607,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bolivia, Plurinational State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Population : 2006607"
+                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Military Deaths : 0"
                     }
                 },
                 "BA": {
-                    "value": 25516553,
+                    "value": 373000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bosnia And Herzegovina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Population : 25516553"
+                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Military Deaths : 373000"
                     }
                 },
                 "BW": {
-                    "value": 22695944,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Botswana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Population : 22695944"
+                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Military Deaths : 0"
                     }
                 },
                 "BR": {
-                    "value": 58738678,
+                    "value": 1000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Brazil",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Population : 58738678"
+                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Military Deaths : 1000"
                     }
                 },
                 "BN": {
-                    "value": 36804471,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Brunei Darussalam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Population : 36804471"
+                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Military Deaths : 0"
                     }
                 },
                 "BG": {
-                    "value": 48527454,
+                    "value": 18500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bulgaria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Population : 48527454"
+                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Military Deaths : 18500"
                     }
                 },
                 "BF": {
-                    "value": 3852890,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Burkina Faso",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Population : 3852890"
+                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Military Deaths : 0"
                     }
                 },
                 "BI": {
-                    "value": 15239520,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Burundi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Population : 15239520"
+                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Military Deaths : 0"
                     }
                 },
                 "KH": {
-                    "value": 46215030,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cambodia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Population : 46215030"
+                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Military Deaths : 0"
                     }
                 },
                 "CM": {
-                    "value": 59722144,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cameroon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Population : 59722144"
+                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Military Deaths : 0"
                     }
                 },
                 "CA": {
-                    "value": 14842843,
+                    "value": 43100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Canada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Population : 14842843"
+                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Military Deaths : 43100"
                     }
                 },
                 "CV": {
-                    "value": 48838214,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cape Verde",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Population : 48838214"
+                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Military Deaths : 0"
                     }
                 },
                 "CF": {
-                    "value": 13391409,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Central African Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Population : 13391409"
+                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Military Deaths : 0"
                     }
                 },
                 "CL": {
-                    "value": 19791247,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Chile",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Population : 19791247"
+                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Military Deaths : 0"
                     }
                 },
                 "CN": {
-                    "value": 23843930,
+                    "value": 3375000,
                     "href": "http://en.wikipedia.org/w/index.php?search=China",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">China</span><br />Population : 23843930"
+                        "content": "<span style=\"font-weight:bold;\">China</span><br />Military Deaths : 3375000"
                     }
                 },
                 "CY": {
-                    "value": 45350385,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cyprus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Population : 45350385"
+                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Military Deaths : 0"
                     }
                 },
                 "CO": {
-                    "value": 11336734,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Colombia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Population : 11336734"
+                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Military Deaths : 0"
                     }
                 },
                 "KM": {
-                    "value": 39175391,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Comoros",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Population : 39175391"
+                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Military Deaths : 0"
                     }
                 },
                 "CG": {
-                    "value": 28984274,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Population : 28984274"
+                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Military Deaths : 0"
                     }
                 },
                 "CD": {
-                    "value": 40341657,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo, The Democratic Republic Of The",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Population : 40341657"
+                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Military Deaths : 0"
                     }
                 },
                 "KP": {
-                    "value": 23204129,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Democratic People's Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Population : 23204129"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Military Deaths : 0"
                     }
                 },
                 "KR": {
-                    "value": 18665198,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Population : 18665198"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Military Deaths : 0"
                     }
                 },
                 "CR": {
-                    "value": 58342002,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Costa Rica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Population : 58342002"
+                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Military Deaths : 0"
                     }
                 },
                 "CI": {
-                    "value": 39427655,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=C\u00d4te D'ivoire",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Population : 39427655"
+                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Military Deaths : 0"
                     }
                 },
                 "HR": {
-                    "value": 2196719,
+                    "value": 373000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Croatia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Population : 2196719"
+                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Military Deaths : 373000"
                     }
                 },
                 "CU": {
-                    "value": 8801294,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cuba",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Population : 8801294"
+                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Military Deaths : 0"
                     }
                 },
                 "DK": {
-                    "value": 50145237,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Denmark",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Population : 50145237"
+                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Military Deaths : 0"
                     }
                 },
                 "DJ": {
-                    "value": 18274005,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Djibouti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Population : 18274005"
+                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Military Deaths : 0"
                     }
                 },
                 "DM": {
-                    "value": 51267630,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Population : 51267630"
+                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Military Deaths : 0"
                     }
                 },
                 "EG": {
-                    "value": 30174304,
+                    "value": 1100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Egypt",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Population : 30174304"
+                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Military Deaths : 1100"
                     }
                 },
                 "AE": {
-                    "value": 32472104,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=United Arab Emirates",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Population : 32472104"
+                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Military Deaths : 0"
                     }
                 },
                 "EC": {
-                    "value": 42396332,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ecuador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Population : 42396332"
+                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Military Deaths : 0"
                     }
                 },
                 "ER": {
-                    "value": 3819986,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Eritrea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Population : 3819986"
+                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Military Deaths : 0"
                     }
                 },
                 "ES": {
-                    "value": 13524853,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Spain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Population : 13524853"
+                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Military Deaths : 0"
                     }
                 },
                 "EE": {
-                    "value": 3450729,
+                    "value": 34000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Estonia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Population : 3450729"
+                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Military Deaths : 34000"
                     }
                 },
                 "US": {
-                    "value": 27560260,
+                    "value": 407300,
                     "href": "http://en.wikipedia.org/w/index.php?search=United States",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Population : 27560260"
+                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Military Deaths : 407300"
                     }
                 },
                 "ET": {
-                    "value": 22706912,
+                    "value": 15000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ethiopia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Population : 22706912"
+                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Military Deaths : 15000"
                     }
                 },
                 "FJ": {
-                    "value": 39343567,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Fiji",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Population : 39343567"
+                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Military Deaths : 0"
                     }
                 },
                 "FI": {
-                    "value": 51059238,
+                    "value": 89000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Finland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Population : 51059238"
+                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Military Deaths : 89000"
                     }
                 },
                 "FR": {
-                    "value": 39281415,
+                    "value": 210000,
                     "href": "http://en.wikipedia.org/w/index.php?search=France",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">France</span><br />Population : 39281415"
+                        "content": "<span style=\"font-weight:bold;\">France</span><br />Military Deaths : 210000"
                     }
                 },
                 "GA": {
-                    "value": 1231533,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Gabon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Population : 1231533"
+                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Military Deaths : 0"
                     }
                 },
                 "GM": {
-                    "value": 38371069,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Gambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Population : 38371069"
+                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Military Deaths : 0"
                     }
                 },
                 "GE": {
-                    "value": 53625754,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Georgia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Population : 53625754"
+                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Military Deaths : 0"
                     }
                 },
                 "GH": {
-                    "value": 53225422,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ghana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Population : 53225422"
+                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Military Deaths : 0"
                     }
                 },
                 "GR": {
-                    "value": 42346976,
+                    "value": 35100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Greece",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Population : 42346976"
+                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Military Deaths : 35100"
                     }
                 },
                 "GD": {
-                    "value": 31197986,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Grenada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Population : 31197986"
+                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Military Deaths : 0"
                     }
                 },
                 "GT": {
-                    "value": 39228403,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guatemala",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Population : 39228403"
+                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Military Deaths : 0"
                     }
                 },
                 "GN": {
-                    "value": 15107904,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Population : 15107904"
+                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Military Deaths : 0"
                     }
                 },
                 "GQ": {
-                    "value": 39356363,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Equatorial Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Population : 39356363"
+                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Military Deaths : 0"
                     }
                 },
                 "GW": {
-                    "value": 8464941,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea-bissau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Population : 8464941"
+                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Military Deaths : 0"
                     }
                 },
                 "GY": {
-                    "value": 5995309,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guyana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Population : 5995309"
+                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Military Deaths : 0"
                     }
                 },
                 "HT": {
-                    "value": 20394488,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Haiti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Population : 20394488"
+                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Military Deaths : 0"
                     }
                 },
                 "HN": {
-                    "value": 35312821,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Honduras",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Population : 35312821"
+                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Military Deaths : 0"
                     }
                 },
                 "HU": {
-                    "value": 50662561,
+                    "value": 300000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Hungary",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Population : 50662561"
+                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Military Deaths : 300000"
                     }
                 },
                 "JM": {
-                    "value": 41904599,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Jamaica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Population : 41904599"
+                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Military Deaths : 0"
                     }
                 },
                 "JP": {
-                    "value": 14800799,
+                    "value": 2200000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Japan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Population : 14800799"
+                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Military Deaths : 2200000"
                     }
                 },
                 "MH": {
-                    "value": 43319473,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Marshall Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Population : 43319473"
+                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Military Deaths : 0"
                     }
                 },
                 "PW": {
-                    "value": 28631470,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Palau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Population : 28631470"
+                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Military Deaths : 0"
                     }
                 },
                 "SB": {
-                    "value": 25284396,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Solomon Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Population : 25284396"
+                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Military Deaths : 0"
                     }
                 },
                 "IN": {
-                    "value": 33892462,
+                    "value": 87000,
                     "href": "http://en.wikipedia.org/w/index.php?search=India",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">India</span><br />Population : 33892462"
+                        "content": "<span style=\"font-weight:bold;\">India</span><br />Military Deaths : 87000"
                     }
                 },
                 "ID": {
-                    "value": 46529447,
+                    "value": 11500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Indonesia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Population : 46529447"
+                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Military Deaths : 11500"
                     }
                 },
                 "JO": {
-                    "value": 22862292,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Jordan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Population : 22862292"
+                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Military Deaths : 0"
                     }
                 },
                 "IR": {
-                    "value": 44112827,
+                    "value": 200,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iran, Islamic Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Population : 44112827"
+                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Military Deaths : 200"
                     }
                 },
                 "IQ": {
-                    "value": 23385101,
+                    "value": 500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iraq",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Population : 23385101"
+                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Military Deaths : 500"
                     }
                 },
                 "IE": {
-                    "value": 58045865,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ireland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Population : 58045865"
+                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Military Deaths : 0"
                     }
                 },
                 "IS": {
-                    "value": 23995654,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iceland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Population : 23995654"
+                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Military Deaths : 0"
                     }
                 },
                 "IL": {
-                    "value": 36618015,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Israel",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Population : 36618015"
+                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Military Deaths : 0"
                     }
                 },
                 "IT": {
-                    "value": 18844342,
+                    "value": 319200,
                     "href": "http://en.wikipedia.org/w/index.php?search=Italy",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Population : 18844342"
+                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Military Deaths : 319200"
                     }
                 },
                 "KZ": {
-                    "value": 1121853,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kazakhstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Population : 1121853"
+                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Military Deaths : 0"
                     }
                 },
                 "KE": {
-                    "value": 52622181,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kenya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Population : 52622181"
+                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Military Deaths : 0"
                     }
                 },
                 "KG": {
-                    "value": 30878085,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kyrgyzstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Population : 30878085"
+                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Military Deaths : 0"
                     }
                 },
                 "KI": {
-                    "value": 25885809,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kiribati",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Population : 25885809"
+                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Military Deaths : 0"
                     }
                 },
                 "KW": {
-                    "value": 8660537,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kuwait",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Population : 8660537"
+                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Military Deaths : 0"
                     }
                 },
                 "LA": {
-                    "value": 39482495,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lao People's Democratic Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Population : 39482495"
+                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Military Deaths : 0"
                     }
                 },
                 "LS": {
-                    "value": 25021164,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lesotho",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Population : 25021164"
+                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Military Deaths : 0"
                     }
                 },
                 "LV": {
-                    "value": 20175128,
+                    "value": 30000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Latvia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Population : 20175128"
+                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Military Deaths : 30000"
                     }
                 },
                 "LB": {
-                    "value": 3915042,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lebanon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Population : 3915042"
+                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Military Deaths : 0"
                     }
                 },
                 "LR": {
-                    "value": 5167224,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Liberia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Population : 5167224"
+                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Military Deaths : 0"
                     }
                 },
                 "LY": {
-                    "value": 47125376,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Libya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Population : 47125376"
+                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Military Deaths : 0"
                     }
                 },
                 "LI": {
-                    "value": 7327923,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Liechtenstein",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Population : 7327923"
+                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Military Deaths : 0"
                     }
                 },
                 "LT": {
-                    "value": 59888492,
+                    "value": 25000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lithuania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Population : 59888492"
+                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Military Deaths : 25000"
                     }
                 },
                 "LU": {
-                    "value": 216992,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Luxembourg",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Population : 216992"
+                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Military Deaths : 0"
                     }
                 },
                 "MK": {
-                    "value": 35418845,
+                    "value": 373000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Macedonia, The Former Yugoslav Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Population : 35418845"
+                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Military Deaths : 373000"
                     }
                 },
                 "MG": {
-                    "value": 22909820,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Madagascar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Population : 22909820"
+                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Military Deaths : 0"
                     }
                 },
                 "MY": {
-                    "value": 39934012,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malaysia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Population : 39934012"
+                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Military Deaths : 0"
                     }
                 },
                 "MW": {
-                    "value": 45222425,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malawi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Population : 45222425"
+                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Military Deaths : 0"
                     }
                 },
                 "MV": {
-                    "value": 17979696,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Maldives",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Population : 17979696"
+                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Military Deaths : 0"
                     }
                 },
                 "ML": {
-                    "value": 12636444,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mali",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Population : 12636444"
+                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Military Deaths : 0"
                     }
                 },
                 "MT": {
-                    "value": 17054727,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malta",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Population : 17054727"
+                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Military Deaths : 0"
                     }
                 },
                 "MA": {
-                    "value": 11024145,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Morocco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Population : 11024145"
+                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Military Deaths : 0"
                     }
                 },
                 "MU": {
-                    "value": 52836057,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritius",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Population : 52836057"
+                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Military Deaths : 0"
                     }
                 },
                 "MR": {
-                    "value": 12073419,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Population : 12073419"
+                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Military Deaths : 0"
                     }
                 },
                 "MX": {
-                    "value": 34303763,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mexico",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Population : 34303763"
+                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Military Deaths : 0"
                     }
                 },
                 "FM": {
-                    "value": 38012781,
+                    "value": 1500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Micronesia, Federated States Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Population : 38012781"
+                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Military Deaths : 1500"
                     }
                 },
                 "MD": {
-                    "value": 48266049,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Moldova, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Population : 48266049"
+                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Military Deaths : 0"
                     }
                 },
                 "MC": {
-                    "value": 26836371,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Monaco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Population : 26836371"
+                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Military Deaths : 0"
                     }
                 },
                 "MN": {
-                    "value": 44884244,
+                    "value": 300,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mongolia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Population : 44884244"
+                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Military Deaths : 300"
                     }
                 },
                 "ME": {
-                    "value": 56928956,
+                    "value": 373000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Montenegro",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Population : 56928956"
+                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Military Deaths : 373000"
                     }
                 },
                 "MZ": {
-                    "value": 2397799,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mozambique",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Population : 2397799"
+                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Military Deaths : 0"
                     }
                 },
                 "NA": {
-                    "value": 32590924,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Namibia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Population : 32590924"
+                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Military Deaths : 0"
                     }
                 },
                 "NP": {
-                    "value": 31949295,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nepal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Population : 31949295"
+                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Military Deaths : 0"
                     }
                 },
                 "NI": {
-                    "value": 28463293,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nicaragua",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Population : 28463293"
+                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Military Deaths : 0"
                     }
                 },
                 "NE": {
-                    "value": 3209433,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Niger",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Population : 3209433"
+                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Military Deaths : 0"
                     }
                 },
                 "NG": {
-                    "value": 34952704,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nigeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Population : 34952704"
+                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Military Deaths : 0"
                     }
                 },
                 "NO": {
-                    "value": 8602041,
+                    "value": 2000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Norway",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Population : 8602041"
+                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Military Deaths : 2000"
                     }
                 },
                 "NZ": {
-                    "value": 3156420,
+                    "value": 11700,
                     "href": "http://en.wikipedia.org/w/index.php?search=New Zealand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Population : 3156420"
+                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Military Deaths : 11700"
                     }
                 },
                 "OM": {
-                    "value": 48829074,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Oman",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Population : 48829074"
+                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Military Deaths : 0"
                     }
                 },
                 "UG": {
-                    "value": 9587335,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uganda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Population : 9587335"
+                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Military Deaths : 0"
                     }
                 },
                 "UZ": {
-                    "value": 17895608,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uzbekistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Population : 17895608"
+                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Military Deaths : 0"
                     }
                 },
                 "PK": {
-                    "value": 1598962,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Pakistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Population : 1598962"
+                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Military Deaths : 0"
                     }
                 },
                 "PS": {
-                    "value": 47534848,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Palestine, State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Population : 47534848"
+                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Military Deaths : 0"
                     }
                 },
                 "PA": {
-                    "value": 22010443,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Panama",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Population : 22010443"
+                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Military Deaths : 0"
                     }
                 },
                 "PG": {
-                    "value": 13033120,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Papua New Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Population : 13033120"
+                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Military Deaths : 0"
                     }
                 },
                 "PY": {
-                    "value": 14431543,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Paraguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Population : 14431543"
+                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Military Deaths : 0"
                     }
                 },
                 "NL": {
-                    "value": 57354880,
+                    "value": 6700,
                     "href": "http://en.wikipedia.org/w/index.php?search=Netherlands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Population : 57354880"
+                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Military Deaths : 6700"
                     }
                 },
                 "PE": {
-                    "value": 47887653,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Peru",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Population : 47887653"
+                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Military Deaths : 0"
                     }
                 },
                 "PH": {
-                    "value": 37067703,
+                    "value": 27000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Philippines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Population : 37067703"
+                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Military Deaths : 27000"
                     }
                 },
                 "PL": {
-                    "value": 2344787,
+                    "value": 240000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Poland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Population : 2344787"
+                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Military Deaths : 240000"
                     }
                 },
                 "PT": {
-                    "value": 46467295,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Portugal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Population : 46467295"
+                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Military Deaths : 0"
                     }
                 },
                 "QA": {
-                    "value": 32934589,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Qatar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Population : 32934589"
+                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Military Deaths : 0"
                     }
                 },
                 "DO": {
-                    "value": 43202481,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominican Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Population : 43202481"
+                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Military Deaths : 0"
                     }
                 },
                 "RO": {
-                    "value": 15879321,
+                    "value": 300000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Romania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Population : 15879321"
+                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Military Deaths : 300000"
                     }
                 },
                 "GB": {
-                    "value": 13000216,
+                    "value": 383700,
                     "href": "http://en.wikipedia.org/w/index.php?search=United Kingdom",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Population : 13000216"
+                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Military Deaths : 383700"
                     }
                 },
                 "RU": {
-                    "value": 12716876,
+                    "value": 10034000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Russian Federation",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Population : 12716876"
+                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Military Deaths : 10034000"
                     }
                 },
                 "RW": {
-                    "value": 14590579,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Rwanda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Population : 14590579"
+                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Military Deaths : 0"
                     }
                 },
                 "KN": {
-                    "value": 15725769,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Kitts And Nevis",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Population : 15725769"
+                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Military Deaths : 0"
                     }
                 },
                 "SM": {
-                    "value": 44931772,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=San Marino",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Population : 44931772"
+                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Military Deaths : 0"
                     }
                 },
                 "VC": {
-                    "value": 52750141,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Vincent And The Grenadines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Population : 52750141"
+                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Military Deaths : 0"
                     }
                 },
                 "LC": {
-                    "value": 24235123,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Lucia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Population : 24235123"
+                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Military Deaths : 0"
                     }
                 },
                 "SV": {
-                    "value": 52424756,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=El Salvador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Population : 52424756"
+                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Military Deaths : 0"
                     }
                 },
                 "WS": {
-                    "value": 20590085,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Samoa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Population : 20590085"
+                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Military Deaths : 0"
                     }
                 },
                 "ST": {
-                    "value": 8900006,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sao Tome And Principe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Population : 8900006"
+                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Military Deaths : 0"
                     }
                 },
                 "SN": {
-                    "value": 55289237,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Senegal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Population : 55289237"
+                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Military Deaths : 0"
                     }
                 },
                 "RS": {
-                    "value": 26766907,
+                    "value": 373000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Serbia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Population : 26766907"
+                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Military Deaths : 373000"
                     }
                 },
                 "SC": {
-                    "value": 27953281,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Seychelles",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Population : 27953281"
+                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Military Deaths : 0"
                     }
                 },
                 "SL": {
-                    "value": 6582098,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sierra Leone",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Population : 6582098"
+                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Military Deaths : 0"
                     }
                 },
                 "SG": {
-                    "value": 1056045,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Singapore",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Population : 1056045"
+                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Military Deaths : 0"
                     }
                 },
                 "SK": {
-                    "value": 49192847,
+                    "value": 40500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovakia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Population : 49192847"
+                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Military Deaths : 40500"
                     }
                 },
                 "SI": {
-                    "value": 5249484,
+                    "value": 373000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Population : 5249484"
+                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Military Deaths : 373000"
                     }
                 },
                 "SO": {
-                    "value": 21462042,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Somalia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Population : 21462042"
+                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Military Deaths : 0"
                     }
                 },
                 "SD": {
-                    "value": 24388675,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Population : 24388675"
+                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Military Deaths : 0"
                     }
                 },
                 "SS": {
-                    "value": 20493201,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=South Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Population : 20493201"
+                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Military Deaths : 0"
                     }
                 },
                 "LK": {
-                    "value": 40456821,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sri Lanka",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Population : 40456821"
+                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Military Deaths : 0"
                     }
                 },
                 "SE": {
-                    "value": 59155463,
+                    "value": 100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sweden",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Population : 59155463"
+                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Military Deaths : 100"
                     }
                 },
                 "CH": {
-                    "value": 18590249,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Switzerland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Population : 18590249"
+                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Military Deaths : 0"
                     }
                 },
                 "SR": {
-                    "value": 51108594,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Suriname",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Population : 51108594"
+                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Military Deaths : 0"
                     }
                 },
                 "SZ": {
-                    "value": 11903415,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Swaziland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Population : 11903415"
+                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Military Deaths : 0"
                     }
                 },
                 "SY": {
-                    "value": 35427985,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Syrian Arab Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Population : 35427985"
+                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Military Deaths : 0"
                     }
                 },
                 "TJ": {
-                    "value": 26713895,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tajikistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Population : 26713895"
+                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Military Deaths : 0"
                     }
                 },
                 "TZ": {
-                    "value": 41829651,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tanzania, United Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Population : 41829651"
+                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Military Deaths : 0"
                     }
                 },
                 "TD": {
-                    "value": 7567392,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Chad",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Population : 7567392"
+                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Military Deaths : 0"
                     }
                 },
                 "CZ": {
-                    "value": 15795233,
+                    "value": 40500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Czech Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Population : 15795233"
+                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Military Deaths : 40500"
                     }
                 },
                 "TH": {
-                    "value": 1962735,
+                    "value": 5600,
                     "href": "http://en.wikipedia.org/w/index.php?search=Thailand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Population : 1962735"
+                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Military Deaths : 5600"
                     }
                 },
                 "TL": {
-                    "value": 43196997,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Timor-leste",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Population : 43196997"
+                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Military Deaths : 0"
                     }
                 },
                 "TG": {
-                    "value": 25576877,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Togo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Population : 25576877"
+                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Military Deaths : 0"
                     }
                 },
                 "TO": {
-                    "value": 35822833,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tonga",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Population : 35822833"
+                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Military Deaths : 0"
                     }
                 },
                 "TT": {
-                    "value": 47289896,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Trinidad And Tobago",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Population : 47289896"
+                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Military Deaths : 0"
                     }
                 },
                 "TN": {
-                    "value": 15901257,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tunisia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Population : 15901257"
+                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Military Deaths : 0"
                     }
                 },
                 "TM": {
-                    "value": 34109995,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkmenistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Population : 34109995"
+                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Military Deaths : 0"
                     }
                 },
                 "TR": {
-                    "value": 41226410,
+                    "value": 200,
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkey",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Population : 41226410"
+                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Military Deaths : 200"
                     }
                 },
                 "TV": {
-                    "value": 55998502,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tuvalu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Population : 55998502"
+                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Military Deaths : 0"
                     }
                 },
                 "VU": {
-                    "value": 10483056,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Vanuatu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Population : 10483056"
+                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Military Deaths : 0"
                     }
                 },
                 "VE": {
-                    "value": 31294870,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Venezuela, Bolivarian Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Population : 31294870"
+                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Military Deaths : 0"
                     }
                 },
                 "VN": {
-                    "value": 7671588,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Viet Nam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Viet Nam</span><br />Population : 7671588"
+                        "content": "<span style=\"font-weight:bold;\">Vietnam</span><br />Military Deaths : 0"
                     }
                 },
                 "UA": {
-                    "value": 11241678,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ukraine",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Population : 11241678"
+                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Military Deaths : 0"
                     }
                 },
                 "UY": {
-                    "value": 47533020,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uruguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Population : 47533020"
+                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Military Deaths : 0"
                     }
                 },
                 "YE": {
-                    "value": 45209629,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Yemen",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Population : 45209629"
+                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Military Deaths : 0"
                     }
                 },
                 "ZM": {
-                    "value": 673992,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Zambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Population : 673992"
+                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Military Deaths : 0"
                     }
                 },
                 "ZW": {
-                    "value": 45922550,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Zimbabwe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Population : 45922550"
+                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Military Deaths : 0"
                     }
                 }
             },
             "plots": {
                 "paris": {
-                    "value": 1448389,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Paris</span><br />Population: 1448389"
                     }
                 },
                 "newyork": {
-                    "value": 426800,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">New-York</span><br />Population: 426800"
                     }
                 },
                 "sydney": {
-                    "value": 1401819,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Sydney</span><br />Population: 1401819"
                     }
                 },
                 "brasilia": {
-                    "value": 644440,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Brasilia</span><br />Population: 644440"
                     }
                 },
                 "tokyo": {
-                    "value": 143237,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Tokyo</span><br />Population: 143237"
                     }
                 }
             }
         },
-        "2004": {
+        "1940": {
             "areas": {
                 "AF": {
-                    "value": 25891293,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Afghanistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Population : 25891293"
+                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ZA": {
-                    "value": 58862983,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=South Africa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Population : 58862983"
+                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AL": {
-                    "value": 16659878,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Albania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Population : 16659878"
+                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DZ": {
-                    "value": 50348145,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Algeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Population : 50348145"
+                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DE": {
-                    "value": 18864450,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Germany",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Population : 18864450"
+                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AD": {
-                    "value": 45430817,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Andorra",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Population : 45430817"
+                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AO": {
-                    "value": 8872586,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Angola",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Population : 8872586"
+                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AG": {
-                    "value": 43877014,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Antigua And Barbuda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Population : 43877014"
+                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SA": {
-                    "value": 21079989,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saudi Arabia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Population : 21079989"
+                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AR": {
-                    "value": 21118378,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Argentina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Population : 21118378"
+                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AM": {
-                    "value": 13135489,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Armenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Population : 13135489"
+                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AU": {
-                    "value": 33077173,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Australia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Population : 33077173"
+                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AT": {
-                    "value": 30666037,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Austria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Population : 30666037"
+                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AZ": {
-                    "value": 21491290,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Azerbaijan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Population : 21491290"
+                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BS": {
-                    "value": 12601712,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahamas",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Population : 12601712"
+                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BH": {
-                    "value": 38539246,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahrain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Population : 38539246"
+                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BD": {
-                    "value": 15800717,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bangladesh",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Population : 15800717"
+                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BB": {
-                    "value": 52165180,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Barbados",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Population : 52165180"
+                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BE": {
-                    "value": 20374380,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belgium",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Population : 20374380"
+                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BZ": {
-                    "value": 50903858,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belize",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Population : 50903858"
+                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BJ": {
-                    "value": 34512155,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Benin",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Population : 34512155"
+                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BT": {
-                    "value": 28905670,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bhutan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Population : 28905670"
+                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BY": {
-                    "value": 19606619,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belarus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Population : 19606619"
+                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MM": {
-                    "value": 30861633,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Myanmar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Population : 30861633"
+                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BO": {
-                    "value": 54978476,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bolivia, Plurinational State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Population : 54978476"
+                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BA": {
-                    "value": 17228387,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bosnia And Herzegovina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Population : 17228387"
+                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BW": {
-                    "value": 23401553,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Botswana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Population : 23401553"
+                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BR": {
-                    "value": 28953198,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Brazil",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Population : 28953198"
+                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BN": {
-                    "value": 15427804,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Brunei Darussalam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Population : 15427804"
+                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BG": {
-                    "value": 52698957,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bulgaria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Population : 52698957"
+                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BF": {
-                    "value": 14912307,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Burkina Faso",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Population : 14912307"
+                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Civilian Deaths : 0"
                     }
                 },
                 "BI": {
-                    "value": 5869177,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Burundi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Population : 5869177"
+                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KH": {
-                    "value": 3838266,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cambodia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Population : 3838266"
+                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CM": {
-                    "value": 21133002,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cameroon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Population : 21133002"
+                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CA": {
-                    "value": 7242007,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Canada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Population : 7242007"
+                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CV": {
-                    "value": 12150195,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cape Verde",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Population : 12150195"
+                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CF": {
-                    "value": 18337985,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Central African Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Population : 18337985"
+                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CL": {
-                    "value": 17996148,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Chile",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Population : 17996148"
+                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CN": {
-                    "value": 43443778,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=China",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">China</span><br />Population : 43443778"
+                        "content": "<span style=\"font-weight:bold;\">China</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CY": {
-                    "value": 8486877,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cyprus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Population : 8486877"
+                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CO": {
-                    "value": 27105087,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Colombia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Population : 27105087"
+                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KM": {
-                    "value": 48904023,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Comoros",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Population : 48904023"
+                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CG": {
-                    "value": 16820743,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Population : 16820743"
+                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CD": {
-                    "value": 45419849,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo, The Democratic Republic Of The",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Population : 45419849"
+                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KP": {
-                    "value": 28267697,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Democratic People's Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Population : 28267697"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KR": {
-                    "value": 29622247,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Population : 29622247"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CR": {
-                    "value": 30326028,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Costa Rica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Population : 30326028"
+                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CI": {
-                    "value": 23739734,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=C\u00d4te D'ivoire",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Population : 23739734"
+                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Civilian Deaths : 0"
                     }
                 },
                 "HR": {
-                    "value": 49903940,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Croatia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Population : 49903940"
+                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CU": {
-                    "value": 25666449,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cuba",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Population : 25666449"
+                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DK": {
-                    "value": 37162760,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Denmark",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Population : 37162760"
+                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DJ": {
-                    "value": 53887159,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Djibouti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Population : 53887159"
+                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DM": {
-                    "value": 30241940,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Population : 30241940"
+                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Civilian Deaths : 0"
                     }
                 },
                 "EG": {
-                    "value": 12702252,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Egypt",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Population : 12702252"
+                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AE": {
-                    "value": 20484061,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=United Arab Emirates",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Population : 20484061"
+                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Civilian Deaths : 0"
                     }
                 },
                 "EC": {
-                    "value": 36652747,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ecuador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Population : 36652747"
+                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ER": {
-                    "value": 57259824,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Eritrea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Population : 57259824"
+                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ES": {
-                    "value": 56245282,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Spain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Population : 56245282"
+                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Civilian Deaths : 0"
                     }
                 },
                 "EE": {
-                    "value": 53293058,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Estonia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Population : 53293058"
+                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "US": {
-                    "value": 22577124,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=United States",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Population : 22577124"
+                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ET": {
-                    "value": 9285714,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ethiopia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Population : 9285714"
+                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "FJ": {
-                    "value": 12161163,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Fiji",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Population : 12161163"
+                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Civilian Deaths : 0"
                     }
                 },
                 "FI": {
-                    "value": 58842875,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Finland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Population : 58842875"
+                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Civilian Deaths : 0"
                     }
                 },
                 "FR": {
-                    "value": 32250916,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=France",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">France</span><br />Population : 32250916"
+                        "content": "<span style=\"font-weight:bold;\">France</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GA": {
-                    "value": 34197739,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Gabon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Population : 34197739"
+                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GM": {
-                    "value": 5865521,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Gambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Population : 5865521"
+                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GE": {
-                    "value": 50236637,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Georgia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Population : 50236637"
+                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GH": {
-                    "value": 56314747,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ghana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Population : 56314747"
+                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GR": {
-                    "value": 10324020,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Greece",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Population : 10324020"
+                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GD": {
-                    "value": 13023980,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Grenada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Population : 13023980"
+                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GT": {
-                    "value": 10627469,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guatemala",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Population : 10627469"
+                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GN": {
-                    "value": 55459241,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Population : 55459241"
+                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GQ": {
-                    "value": 25642685,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Equatorial Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Population : 25642685"
+                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GW": {
-                    "value": 39252167,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea-bissau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Population : 39252167"
+                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GY": {
-                    "value": 13018496,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guyana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Population : 13018496"
+                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Civilian Deaths : 0"
                     }
                 },
                 "HT": {
-                    "value": 20325024,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Haiti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Population : 20325024"
+                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Civilian Deaths : 0"
                     }
                 },
                 "HN": {
-                    "value": 18381857,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Honduras",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Population : 18381857"
+                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Civilian Deaths : 0"
                     }
                 },
                 "HU": {
-                    "value": 315704,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Hungary",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Population : 315704"
+                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Civilian Deaths : 0"
                     }
                 },
                 "JM": {
-                    "value": 40562845,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Jamaica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Population : 40562845"
+                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Civilian Deaths : 0"
                     }
                 },
                 "JP": {
-                    "value": 31402722,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Japan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Population : 31402722"
+                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MH": {
-                    "value": 16619662,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Marshall Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Population : 16619662"
+                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PW": {
-                    "value": 21630218,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Palau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Population : 21630218"
+                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SB": {
-                    "value": 46463639,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Solomon Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Population : 46463639"
+                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Civilian Deaths : 0"
                     }
                 },
                 "IN": {
-                    "value": 19432959,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=India",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">India</span><br />Population : 19432959"
+                        "content": "<span style=\"font-weight:bold;\">India</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ID": {
-                    "value": 18484225,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Indonesia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Population : 18484225"
+                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "JO": {
-                    "value": 18961334,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Jordan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Population : 18961334"
+                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "IR": {
-                    "value": 13874002,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iran, Islamic Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Population : 13874002"
+                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "IQ": {
-                    "value": 5006359,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iraq",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Population : 5006359"
+                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Civilian Deaths : 0"
                     }
                 },
                 "IE": {
-                    "value": 52053672,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ireland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Population : 52053672"
+                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Civilian Deaths : 0"
                     }
                 },
                 "IS": {
-                    "value": 57824677,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iceland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Population : 57824677"
+                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Civilian Deaths : 0"
                     }
                 },
                 "IL": {
-                    "value": 15797061,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Israel",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Population : 15797061"
+                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Civilian Deaths : 0"
                     }
                 },
                 "IT": {
-                    "value": 38663550,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Italy",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Population : 38663550"
+                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KZ": {
-                    "value": 55556125,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kazakhstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Population : 55556125"
+                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KE": {
-                    "value": 53985871,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kenya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Population : 53985871"
+                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KG": {
-                    "value": 35385941,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kyrgyzstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Population : 35385941"
+                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KI": {
-                    "value": 21195154,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kiribati",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Population : 21195154"
+                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KW": {
-                    "value": 57069712,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kuwait",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Population : 57069712"
+                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LA": {
-                    "value": 13060540,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lao People's Democratic Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Population : 13060540"
+                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LS": {
-                    "value": 25843765,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lesotho",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Population : 25843765"
+                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LV": {
-                    "value": 3141796,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Latvia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Population : 3141796"
+                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LB": {
-                    "value": 54722556,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lebanon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Population : 54722556"
+                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LR": {
-                    "value": 30514313,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Liberia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Population : 30514313"
+                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LY": {
-                    "value": 30223660,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Libya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Population : 30223660"
+                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LI": {
-                    "value": 5094104,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Liechtenstein",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Population : 5094104"
+                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LT": {
-                    "value": 16692782,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lithuania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Population : 16692782"
+                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LU": {
-                    "value": 52062812,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Luxembourg",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Population : 52062812"
+                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MK": {
-                    "value": 1728750,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Macedonia, The Former Yugoslav Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Population : 1728750"
+                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MG": {
-                    "value": 17692700,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Madagascar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Population : 17692700"
+                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MY": {
-                    "value": 1008517,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malaysia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Population : 1008517"
+                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MW": {
-                    "value": 53371662,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malawi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Population : 53371662"
+                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MV": {
-                    "value": 43312161,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Maldives",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Population : 43312161"
+                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ML": {
-                    "value": 1628210,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mali",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Population : 1628210"
+                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MT": {
-                    "value": 35747885,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malta",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Population : 35747885"
+                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MA": {
-                    "value": 40056488,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Morocco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Population : 40056488"
+                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MU": {
-                    "value": 48277018,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritius",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Population : 48277018"
+                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MR": {
-                    "value": 7441259,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Population : 7441259"
+                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MX": {
-                    "value": 59139011,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mexico",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Population : 59139011"
+                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Civilian Deaths : 0"
                     }
                 },
                 "FM": {
-                    "value": 47682917,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Micronesia, Federated States Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Population : 47682917"
+                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MD": {
-                    "value": 59676444,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Moldova, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Population : 59676444"
+                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MC": {
-                    "value": 55722474,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Monaco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Population : 55722474"
+                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MN": {
-                    "value": 39360019,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mongolia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Population : 39360019"
+                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ME": {
-                    "value": 21966571,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Montenegro",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Population : 21966571"
+                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Civilian Deaths : 0"
                     }
                 },
                 "MZ": {
-                    "value": 30713565,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mozambique",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Population : 30713565"
+                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NA": {
-                    "value": 17312475,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Namibia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Population : 17312475"
+                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NP": {
-                    "value": 34439035,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nepal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Population : 34439035"
+                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NI": {
-                    "value": 58373078,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nicaragua",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Population : 58373078"
+                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NE": {
-                    "value": 4441507,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Niger",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Population : 4441507"
+                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NG": {
-                    "value": 32601892,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nigeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Population : 32601892"
+                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NO": {
-                    "value": 12554184,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Norway",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Population : 12554184"
+                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NZ": {
-                    "value": 42718061,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=New Zealand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Population : 42718061"
+                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Civilian Deaths : 0"
                     }
                 },
                 "OM": {
-                    "value": 53863395,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Oman",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Population : 53863395"
+                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Civilian Deaths : 0"
                     }
                 },
                 "UG": {
-                    "value": 32331348,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uganda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Population : 32331348"
+                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Civilian Deaths : 0"
                     }
                 },
                 "UZ": {
-                    "value": 31733591,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uzbekistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Population : 31733591"
+                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PK": {
-                    "value": 10567144,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Pakistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Population : 10567144"
+                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PS": {
-                    "value": 42332352,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Palestine, State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Population : 42332352"
+                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PA": {
-                    "value": 37091467,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Panama",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Population : 37091467"
+                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PG": {
-                    "value": 255380,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Papua New Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Population : 255380"
+                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PY": {
-                    "value": 27435956,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Paraguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Population : 27435956"
+                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Civilian Deaths : 0"
                     }
                 },
                 "NL": {
-                    "value": 42851505,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Netherlands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Population : 42851505"
+                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PE": {
-                    "value": 37522876,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Peru",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Population : 37522876"
+                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PH": {
-                    "value": 36047678,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Philippines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Population : 36047678"
+                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PL": {
-                    "value": 9090118,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Poland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Population : 9090118"
+                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Civilian Deaths : 0"
                     }
                 },
                 "PT": {
-                    "value": 38573978,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Portugal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Population : 38573978"
+                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Civilian Deaths : 0"
                     }
                 },
                 "QA": {
-                    "value": 54216199,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Qatar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Population : 54216199"
+                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DO": {
-                    "value": 47388608,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominican Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Population : 47388608"
+                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Civilian Deaths : 0"
                     }
                 },
                 "RO": {
-                    "value": 21045257,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Romania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Population : 21045257"
+                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GB": {
-                    "value": 42602896,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=United Kingdom",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Population : 42602896"
+                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Civilian Deaths : 0"
                     }
                 },
                 "RU": {
-                    "value": 17912060,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Russian Federation",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Population : 17912060"
+                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Civilian Deaths : 0"
                     }
                 },
                 "RW": {
-                    "value": 32406296,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Rwanda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Population : 32406296"
+                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Civilian Deaths : 0"
                     }
                 },
                 "KN": {
-                    "value": 38966998,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Kitts And Nevis",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Population : 38966998"
+                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SM": {
-                    "value": 38091385,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=San Marino",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Population : 38091385"
+                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Civilian Deaths : 0"
                     }
                 },
                 "VC": {
-                    "value": 9101086,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Vincent And The Grenadines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Population : 9101086"
+                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LC": {
-                    "value": 19178866,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Lucia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Population : 19178866"
+                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SV": {
-                    "value": 8570965,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=El Salvador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Population : 8570965"
+                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Civilian Deaths : 0"
                     }
                 },
                 "WS": {
-                    "value": 38142569,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Samoa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Population : 38142569"
+                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ST": {
-                    "value": 18423901,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sao Tome And Principe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Population : 18423901"
+                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SN": {
-                    "value": 5834445,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Senegal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Population : 5834445"
+                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Civilian Deaths : 0"
                     }
                 },
                 "RS": {
-                    "value": 25322784,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Serbia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Population : 25322784"
+                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SC": {
-                    "value": 25909573,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Seychelles",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Population : 25909573"
+                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SL": {
-                    "value": 6571130,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sierra Leone",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Population : 6571130"
+                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SG": {
-                    "value": 20451156,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Singapore",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Population : 20451156"
+                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SK": {
-                    "value": 34938080,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovakia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Population : 34938080"
+                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SI": {
-                    "value": 14495523,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Population : 14495523"
+                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SO": {
-                    "value": 24083398,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Somalia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Population : 24083398"
+                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SD": {
-                    "value": 1257125,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Population : 1257125"
+                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SS": {
-                    "value": 13082477,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=South Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Population : 13082477"
+                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "LK": {
-                    "value": 46953543,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sri Lanka",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Population : 46953543"
+                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SE": {
-                    "value": 31651331,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sweden",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Population : 31651331"
+                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CH": {
-                    "value": 36230478,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Switzerland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Population : 36230478"
+                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SR": {
-                    "value": 25271600,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Suriname",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Population : 25271600"
+                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SZ": {
-                    "value": 16586758,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Swaziland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Population : 16586758"
+                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Civilian Deaths : 0"
                     }
                 },
                 "SY": {
-                    "value": 19915552,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Syrian Arab Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Population : 19915552"
+                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TJ": {
-                    "value": 3699337,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tajikistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Population : 3699337"
+                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TZ": {
-                    "value": 47171076,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tanzania, United Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Population : 47171076"
+                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TD": {
-                    "value": 26348294,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Chad",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Population : 26348294"
+                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CZ": {
-                    "value": 9466687,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Czech Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Population : 9466687"
+                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TH": {
-                    "value": 51541831,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Thailand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Population : 51541831"
+                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TL": {
-                    "value": 24496527,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Timor-leste",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Population : 24496527"
+                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TG": {
-                    "value": 29441275,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Togo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Population : 29441275"
+                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TO": {
-                    "value": 50845362,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tonga",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Population : 50845362"
+                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TT": {
-                    "value": 58086081,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Trinidad And Tobago",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Population : 58086081"
+                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TN": {
-                    "value": 52713581,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tunisia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Population : 52713581"
+                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TM": {
-                    "value": 9018826,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkmenistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Population : 9018826"
+                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TR": {
-                    "value": 44842200,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkey",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Population : 44842200"
+                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Civilian Deaths : 0"
                     }
                 },
                 "TV": {
-                    "value": 51410215,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tuvalu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Population : 51410215"
+                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Civilian Deaths : 0"
                     }
                 },
                 "VU": {
-                    "value": 17637860,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Vanuatu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Population : 17637860"
+                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Civilian Deaths : 0"
                     }
                 },
                 "VE": {
-                    "value": 38084073,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Venezuela, Bolivarian Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Population : 38084073"
+                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "VN": {
-                    "value": 41997827,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Viet Nam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Viet Nam</span><br />Population : 41997827"
+                        "content": "<span style=\"font-weight:bold;\">Viet Nam</span><br />Civilian Deaths : 0"
                     }
                 },
                 "UA": {
-                    "value": 29642355,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ukraine",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Population : 29642355"
+                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Civilian Deaths : 0"
                     }
                 },
                 "UY": {
-                    "value": 14734991,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uruguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Population : 14734991"
+                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Civilian Deaths : 0"
                     }
                 },
                 "YE": {
-                    "value": 39890140,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Yemen",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Population : 39890140"
+                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ZM": {
-                    "value": 3002868,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Zambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Population : 3002868"
+                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ZW": {
-                    "value": 20860629,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Zimbabwe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Population : 20860629"
+                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Civilian Deaths : 0"
                     }
                 }
             },
             "plots": {
                 "paris": {
-                    "value": 1257410,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Paris</span><br />Population: 1257410"
                     }
                 },
                 "newyork": {
-                    "value": 741339,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">New-York</span><br />Population: 741339"
                     }
                 },
                 "sydney": {
-                    "value": 992774,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Sydney</span><br />Population: 992774"
                     }
                 },
                 "brasilia": {
-                    "value": 639740,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Brasilia</span><br />Population: 639740"
                     }
                 },
                 "tokyo": {
-                    "value": 987219,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Tokyo</span><br />Population: 987219"
                     }
@@ -2796,7 +2796,7 @@ $(function () {
                     "value": 4818075,
                     "href": "http://en.wikipedia.org/w/index.php?search=Albania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Population : 4818075"
+                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DZ": {
@@ -2838,7 +2838,7 @@ $(function () {
                     "value": 6635110,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saudi Arabia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Population : 6635110"
+                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AR": {
@@ -2866,7 +2866,7 @@ $(function () {
                     "value": 8792154,
                     "href": "http://en.wikipedia.org/w/index.php?search=Austria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Population : 8792154"
+                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Civilian Deaths : 0"
                     }
                 },
                 "AZ": {
@@ -3034,7 +3034,7 @@ $(function () {
                     "value": 1494766,
                     "href": "http://en.wikipedia.org/w/index.php?search=Central African Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Population : 1494766"
+                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CL": {
@@ -3097,7 +3097,7 @@ $(function () {
                     "value": 4399462,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Population : 4399462"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Civilian Deaths : 0"
                     }
                 },
                 "CR": {
@@ -3125,7 +3125,7 @@ $(function () {
                     "value": 4011926,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cuba",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Population : 4011926"
+                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Civilian Deaths : 0"
                     }
                 },
                 "DK": {
@@ -3167,7 +3167,7 @@ $(function () {
                     "value": 1046905,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ecuador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Population : 1046905"
+                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Civilian Deaths : 0"
                     }
                 },
                 "ER": {
@@ -3181,7 +3181,7 @@ $(function () {
                     "value": 3353845,
                     "href": "http://en.wikipedia.org/w/index.php?search=Spain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Population : 3353845"
+                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Civilian Deaths : 0"
                     }
                 },
                 "EE": {
@@ -3286,14 +3286,14 @@ $(function () {
                     "value": 4646243,
                     "href": "http://en.wikipedia.org/w/index.php?search=Equatorial Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Population : 4646243"
+                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GW": {
                     "value": 9993152,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea-bissau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Population : 9993152"
+                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Civilian Deaths : 0"
                     }
                 },
                 "GY": {
@@ -15316,6 +15316,12 @@ $(function () {
         }
     });
 
+    $('input[type=radio][name=casualties-detail]').change(function() {      
+      $(".world").trigger('update', [{
+          mapOptions: data['Civilian Deaths']
+      }]); 
+    });
+
     // Mapael initialisation
     $world = $(".world");
     $world.mapael({
@@ -15328,18 +15334,7 @@ $(function () {
                     "stroke-width": 0.3
                 }
             },
-            defaultPlot: {
-                text: {
-                    attrs: {
-                        fill: "#b4b4b4"
-                    },
-                    attrsHover: {
-                        fill: "#fff",
-                        "font-weight": "bold"
-                    }
-                }
-            }
-            , zoom: {
+            zoom: {
                 enabled: true
                 , step: 0.25
                 , maxLevel: 20
@@ -15348,93 +15343,42 @@ $(function () {
         legend: {
             area: {
                 display: true,
-                title: "Country population",
+                title: "World War II Casualties Detail",
                 marginBottom: 7,
                 slices: [
                     {
-                        max: 5000000,
+                        max: 1,
                         attrs: {
                             fill: "#6ECBD4"
                         },
-                        label: "Less than 5M"
+                        label: "No Casualties/Data"
                     },
                     {
-                        min: 5000000,
-                        max: 10000000,
+                        min: 2,
+                        max: 200,
                         attrs: {
                             fill: "#3EC7D4"
                         },
-                        label: "Between 5M and 10M"
+                        label: "Between 0 and 200"
                     },
                     {
-                        min: 10000000,
-                        max: 50000000,
+                        min: 201,
+                        max: 10000,
                         attrs: {
                             fill: "#028E9B"
                         },
-                        label: "Between 10M and 50M"
+                        label: "Between 201 and 10K"
                     },
                     {
-                        min: 50000000,
+                        min: 10001,
                         attrs: {
                             fill: "#01565E"
                         },
-                        label: "More than 50M"
-                    }
-                ]
-            },
-            plot: {
-                display: true,
-                title: "City population",
-                marginBottom: 6,
-                slices: [
-                    {
-                        type: "circle",
-                        max: 500000,
-                        attrs: {
-                            fill: "#FD4851",
-                            "stroke-width": 1
-                        },
-                        attrsHover: {
-                            transform: "s1.5",
-                            "stroke-width": 1
-                        },
-                        label: "Less than 500 000",
-                        size: 10
-                    },
-                    {
-                        type: "circle",
-                        min: 500000,
-                        max: 1000000,
-                        attrs: {
-                            fill: "#FD4851",
-                            "stroke-width": 1
-                        },
-                        attrsHover: {
-                            transform: "s1.5",
-                            "stroke-width": 1
-                        },
-                        label: "Between 500 000 and 1M",
-                        size: 20
-                    },
-                    {
-                        type: "circle",
-                        min: 1000000,
-                        attrs: {
-                            fill: "#FD4851",
-                            "stroke-width": 1
-                        },
-                        attrsHover: {
-                            transform: "s1.5",
-                            "stroke-width": 1
-                        },
-                        label: "More than 1M",
-                        size: 30
+                        label: "More than 10K"
                     }
                 ]
             }
         },
-        plots: $.extend(true, {}, data[2009]['plots'], plots),
-        areas: data[2009]['areas']
+        areas: data['Military Deaths']['areas']
     });
 });
