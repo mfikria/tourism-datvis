@@ -129,10 +129,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="world">
           <div class="rightPanel">
-              <h2>Select a year</h2>
+              <h2 class="white">Select a year</h2>
               <div class="knobContainer">
-                  <input class="knob" data-width="80" data-height="80" data-min="2003" data-max="2013" data-cursor=true
-                         data-fgColor="#454545" data-thickness=.45 value="2009" data-bgColor="#c7e8ff"/>
+                  <input class="knob white" data-width="80" data-height="80" data-min="2003" data-max="2013" data-cursor=true
+                         data-fgColor="#858585" data-thickness=.45 value="2009" data-bgColor="#c7e8ff"/>
               </div>
               <div class="areaLegend"></div>
               <div class="plotLegend"></div>

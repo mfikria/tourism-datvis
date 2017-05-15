@@ -23,3 +23,7 @@ text, text.xAxis, text.yAxis {
 .label-treemap {
 	color: white;
 }
+
+.white {
+	color: white !important;
+}
