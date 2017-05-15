@@ -11,9 +11,15 @@
 	font-size: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
+	fill: white;
 }
 
 text, text.xAxis, text.yAxis {
 	font-family: 'Dosis';
 	font-size: 16px;
+	fill: white;
+}
+
+.label-treemap {
+	color: white;
 }

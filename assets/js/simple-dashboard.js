@@ -36,7 +36,7 @@ function dsPieChart(){
 		   // for animation
 		   innerRadiusFinal = outerRadius * .5,
 		   innerRadiusFinal3 = outerRadius* .45,
-		   color = d3.scaleOrdinal().range(["#00CBDE", "#ADD389" , "#A6A6A6", "#8BE7E7", "#065773", "#81D6BE", "#8BE7E7"]);;    //builtin range of colors
+		   color = d3.scaleOrdinal().range(["#F55330", "#009521" , "#DEC900", "#B6138D", "#8DBB00", "#FEB730", "#4EA3B3"]);;    //builtin range of colors
 		    
 	var vis = d3.select("#pieChart")
 	     .append("svg:svg")              //create the SVG element inside the <body>
@@ -271,7 +271,7 @@ function dsBarChart() {
 			.attr("height", function(d) {
 			    return height-yScale(d.measure);
 			})
-			.attr("fill", "lightgrey")
+			.attr("fill", "darkgrey")
 			;
 	
 		

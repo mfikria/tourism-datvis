@@ -39,7 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script type="text/javascript">
         $(document).ready(function() {
             $('#fullpage').fullpage({
-                sectionsColor: ['transparent', '#999999', '#999999', '#999999'],
+                sectionsColor: ['transparent', '#999999', '#003337', '#999999'],
                 anchors: ['intro', 'timeline', 'statistics', 'final'],
                 menu: '#menu',
                 autoScrolling: true,
@@ -119,8 +119,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-9">
           <svg width="640" height="480"></svg>
           <form>
-            <label><input type="radio" name="mode" value="sumBySize" checked> Total Death</label>
-            <label><input type="radio" name="mode" value="sumByCount"> Death Percentage</label>
+            <label class="label-treemap"><input type="radio" name="mode" value="sumBySize" checked> Total Death</label>
+            <label class="label-treemap"><input type="radio" name="mode" value="sumByCount"> Death Percentage</label>
           </form>
         </div>
       </div>

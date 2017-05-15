@@ -3,7 +3,7 @@ width = +svg.attr("width"),
 height = +svg.attr("height");
 
 var fader = function(color) { return d3.interpolateRgb(color, "#fff")(0.2); },
-    color = color = d3.scaleOrdinal().range(["#00CBDE", "#ADD389" , "#A6A6A6", "#8BE7E7", "#065773", "#81D6BE", "#8BE7E7"]),
+    color = color = d3.scaleOrdinal().range(["#FF8E00", "#E60042" , "#00B850", "#065773", "#75E700", "#81D6BE", "#8BE7E7"]),
     format = d3.format(",d");
 
 var treemap = d3.treemap()
