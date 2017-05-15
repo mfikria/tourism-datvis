@@ -29,15 +29,15 @@ function dsPieChart(){
 	      ]
 	      ;
 
-	var width = 300,
-		  height = 300,
+	var width = 375,
+		  height = 375,
 		  outerRadius = Math.min(width, height) / 2,
 		  innerRadius = outerRadius * .999,   
 		   // for animation
 		   innerRadiusFinal = outerRadius * .5,
 		   innerRadiusFinal3 = outerRadius* .45,
-		   color = d3.scaleOrdinal(d3.schemeCategory10);    //builtin range of colors
-	    
+		   color = d3.scaleOrdinal().range(["#00CBDE", "#ADD389" , "#A6A6A6", "#8BE7E7", "#065773", "#81D6BE", "#8BE7E7"]);;    //builtin range of colors
+		    
 	var vis = d3.select("#pieChart")
 	     .append("svg:svg")              //create the SVG element inside the <body>
 	     .data([dataset])                   //associate our data with the document
@@ -196,8 +196,8 @@ function datasetBarChosen(group) {
 function dsBarChartBasics() {
 
 		var margin = {top: 30, right: 5, bottom: 20, left: 50},
-		width = 300 - margin.left - margin.right,
-	   height = 300 - margin.top - margin.bottom,
+		width = 400,
+	  height = 350,
 		colorBar = d3.scaleOrdinal(d3.schemeCategory20),
 		barPadding = 1
 		;

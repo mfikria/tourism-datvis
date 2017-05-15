@@ -352,14 +352,13 @@ h1 {
 	position:absolute;
 	top:10px;
 	left:10px;
-	width:200px;
-	height:200px; 
+	width:400px;
+	height:400px; 
 }
 
 #barChart {
-	top:160px;
-	height: 200px;
-	position: relative;
+	position:absolute;
+	height: 250px;
 }
 
 .slice {
@@ -443,6 +442,7 @@ td {
 	/*font-style: italic;*/
 }
 
-#war-power {
+#war-power, #piepower {
 	height: 400px;
+	clear: both;
 }
