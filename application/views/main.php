@@ -40,6 +40,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 sectionsColor: ['transparent', '#999999', '#999999', '#999999'],
                 anchors: ['intro', 'timeline', 'map', 'statistics', 'final'],
                 menu: '#menu',
+                autoScrolling: true,
+                fitToSection: false,
                 navigation: true,
                 navigationPosition: 'right',
                 afterLoad: function(anchorLink, index){
@@ -113,23 +115,28 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
     </div>
     <div class="section" id="statistics-wrapper">
-      <style>
-        svg {
-          font: 10px sans-serif;
-          margin-top: 60px;
-        }
-      </style>
-      <div class="container">
-        <div class="col-md-4">
-
+      <div class="slide" id="slide-1" data-anchor="slide1">
+        <style>
+          svg {
+            font: 10px sans-serif;
+            margin-top: 60px;
+          }
+        </style>
+        <div class="container">
+          <div class="col-md-4" id="war-power">
+          </div>
+          <div class="col-md-8">
+            <svg width="640" height="480"></svg>
+            <form>
+              <label><input type="radio" name="mode" value="sumBySize" checked> Total Death</label>
+              <label><input type="radio" name="mode" value="sumByCount"> Death Percentage</label>
+            </form>
+          </div>
         </div>
-        <div class="col-md-8">
-          <svg width="640" height="480"></svg>
-          <form>
-            <label><input type="radio" name="mode" value="sumBySize" checked> Total Death</label>
-            <label><input type="radio" name="mode" value="sumByCount"> Death Percentage</label>
-          </form>
-        </div>
+      </div>
+      <div class="slide" id="slide-2" data-anchor="slide2">
+        <div id="pieChart"></div>
+        <div id="barChart"></div>
       </div>
     </div>
     <div class="section" id="final-wrapper">
@@ -153,6 +160,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <script src="/assets/js/map.js" charset="utf-8"></script>
 
 <script type="text/javascript" src="assets/js/treemap.js"></script>
+<script type="text/javascript" src="assets/js/simple-dashboard.js"></script>
 
 </body>
 </html>
