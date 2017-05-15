@@ -13,16 +13,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="Resource-type" content="Document" />
 
 
-    <link rel="stylesheet" type="text/css" href="assets/plugins/fullpagejs/jquery.fullpage.css" />
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/plugins/fullpagejs/jquery.fullpage.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600" rel="stylesheet">
 
-    <link href="assets/css/statistics.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/statistics.css" rel="stylesheet" type="text/css" />
     <!-- Map Section -->
-    <link href="assets/css/map.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/map.css" rel="stylesheet" type="text/css" />
 
     <!--[if IE]>
     <script type="text/javascript">
@@ -33,9 +33,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 
-    <script type="text/javascript" src="assets/plugins/fullpagejs/jquery.fullpage.js"></script>
+    <script type="text/javascript" src="/assets/plugins/fullpagejs/jquery.fullpage.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script type="text/javascript" src="assets/js/main.js"></script>
+    <script type="text/javascript" src="/assets/js/main.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             $('#fullpage').fullpage({
@@ -64,7 +64,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"
             charset="utf-8"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js" charset="utf-8"></script>
-    <script src="assets/js/mapael/jquery.mapael.js" charset="utf-8"></script>
+    <script src="/assets/js/mapael/jquery.mapael.js" charset="utf-8"></script>
     <script src="https://rawgit.com/aterrien/jQuery-Knob/master/dist/jquery.knob.min.js" charset="utf-8"></script>
 
 </head>
@@ -82,8 +82,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <div class="section " id="intro-wrapper">
     <div class="bgvid-wrapper">
         <video class="video" id="bgvid" playsinline autoplay muted loop>
-            <source src="assets/video/intro.webm" type="video/webm">
-            <source src="assets/video/intro.3gp" type="video/3gp"></video><!-- /video -->
+            <source src="/assets/video/intro.webm" type="video/webm">
+            <source src="/assets/video/intro.3gp" type="video/3gp"></video><!-- /video -->
         <div id="intro-desc">
           <h1>WW2</h1>
           <p>
@@ -166,11 +166,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 
 <!-- Map Section -->
-<script src="assets/js/mapael/maps/world_countries.js" charset="utf-8"></script>
-<script src="assets/js/map.js" charset="utf-8"></script>
+<script src="/assets/js/mapael/maps/world_countries.js" charset="utf-8"></script>
+<script src="/assets/js/map.js" charset="utf-8"></script>
 
-<script type="text/javascript" src="assets/js/treemap.js"></script>
-<script type="text/javascript" src="assets/js/simple-dashboard.js"></script>
+<script type="text/javascript" src="/assets/js/treemap.js"></script>
+<script type="text/javascript" src="/assets/js/simple-dashboard.js"></script>
 
 </body>
 </html>
