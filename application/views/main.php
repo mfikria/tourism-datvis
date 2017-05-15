@@ -19,6 +19,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 
+    <!-- Map Section -->
+    <link href="/assets/css/map.css" rel="stylesheet" type="text/css" />
+
     <!--[if IE]>
     <script type="text/javascript">
         var console = { log: function() {} };
@@ -35,7 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         $(document).ready(function() {
             $('#fullpage').fullpage({
                 sectionsColor: ['transparent', '#999999', '#999999', '#999999'],
-                anchors: ['intro', 'timeline', 'statistics', 'final'],
+                anchors: ['intro', 'timeline', 'map', 'statistics', 'final'],
                 menu: '#menu',
                 navigation: true,
                 navigationPosition: 'right',
@@ -51,12 +54,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             });
         });
     </script>
+
+    <!-- Map -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" charset="utf-8"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"
+            charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js" charset="utf-8"></script>
+    <script src="/assets/js/mapael/jquery.mapael.js" charset="utf-8"></script>
+    <script src="https://rawgit.com/aterrien/jQuery-Knob/master/dist/jquery.knob.min.js" charset="utf-8"></script>
+
 </head>
 <body>
 
 <ul id="menu">
     <li data-menuanchor="firstPage" class="active"><a href="#intro">INTRO</a></li>
     <li data-menuanchor="secondPage"><a href="#timeline">TIMELINE</a></li>
+    <li data-menuanchor="secondPage"><a href="#map">MAP</a></li>
     <li data-menuanchor="3rdPage"><a href="#statistics">STATISTICS</a></li>
     <li data-menuanchor="3rdPage"><a href="#final">FINAL</a></li>
 </ul>
@@ -80,6 +93,24 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="section active" id="timeline-wrapper">
         <iframe src="http://timemapper.okfnlabs.org/muhamadfikria2/world-war-2-data?embed=1" frameborder="0" style="border: none;" width="100%" height="100%"></iframe>
         <a href="#statistics" class="next-button"><i class="fa fa-2x fa-chevron-down" aria-hidden="true"></i>  Go to Statistics</a>
+    </div>
+    <div class="section" id="map-wrapper">
+        <div class="container">
+          <div class="world">
+            <div class="rightPanel">
+                <h2>Select a year</h2>
+
+                <div class="knobContainer">
+                    <input class="knob" data-width="80" data-height="80" data-min="2003" data-max="2013" data-cursor=true
+                           data-fgColor="#454545" data-thickness=.45 value="2009" data-bgColor="#c7e8ff"/>
+                </div>
+                <div class="areaLegend"></div>
+                <div class="plotLegend"></div>
+            </div>
+            <div class="map"></div>
+            <div style="clear: both;"></div>
+          </div>
+        </div>
     </div>
     <div class="section" id="statistics-wrapper">
       <style>
@@ -116,6 +147,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </p>
     </div>
 </div>
+
+<!-- Map Section -->
+<script src="/assets/js/mapael/maps/world_countries.js" charset="utf-8"></script>
+<script src="/assets/js/map.js" charset="utf-8"></script>
+
 <script type="text/javascript" src="assets/js/treemap.js"></script>
 
 </body>
