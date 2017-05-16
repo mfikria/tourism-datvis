@@ -15261,61 +15261,6 @@ $(function () {
         }
     };
 
-    // Default plots params
-    var plots = {
-        "paris": {
-            "latitude": 48.86,
-            "longitude": 2.3444,
-            "text": {
-                "position": "left",
-                "content": "Paris"
-            },
-            "href": "http://en.wikipedia.org/w/index.php?search=Paris"
-        },
-        "newyork": {
-            "latitude": 40.667,
-            "longitude": -73.833,
-            "text": {
-                "content": "New york"
-            },
-            "href": "http://en.wikipedia.org/w/index.php?search=New York"
-        },
-        "sydney": {
-            "latitude": -33.917,
-            "longitude": 151.167,
-            "text": {
-                "content": "Sydney"
-            },
-            "href": "http://en.wikipedia.org/w/index.php?search=Sidney"
-        },
-        "brasilia": {
-            "latitude": -15.781682,
-            "longitude": -47.924195,
-            "text": {
-                "content": "Brasilia"
-            },
-            "href": "http://en.wikipedia.org/w/index.php?search=Brasilia"
-        },
-        "tokyo": {
-            "latitude": 35.687418,
-            "longitude": 139.692306,
-            "text": {
-                "content": "Tokyo"
-            },
-            "href": "http://en.wikipedia.org/w/index.php?search=Tokyo"
-        }
-    };
-
-    // Knob initialisation (for selecting a year)
-    $(".knob").knob({
-        release: function (value) {
-            $(".world").trigger('update', [{
-                mapOptions: data[value],
-                animDuration: 300
-            }]);
-        }
-    });
-
     $('input[type=radio][name=casualties-detail]').change(function() {
       if (this.value == 'Military Deaths') {
         $(".world").trigger('update', [{
@@ -15362,34 +15307,42 @@ $(function () {
                 marginBottom: 7,
                 slices: [
                     {
-                        max: 1,
+                        max: 999,
                         attrs: {
                             fill: "#6ECBD4"
                         },
-                        label: "No Casualties/Data"
+                        label: "< 1.000"
                     },
                     {
-                        min: 2,
-                        max: 200,
+                        min: 1000,
+                        max: 10000,
                         attrs: {
                             fill: "#3EC7D4"
                         },
-                        label: "Between 0 and 200"
-                    },
-                    {
-                        min: 201,
-                        max: 10000,
-                        attrs: {
-                            fill: "#028E9B"
-                        },
-                        label: "Between 201 and 10K"
+                        label: "1.000 - 10.000"
                     },
                     {
                         min: 10001,
+                        max: 100000,
+                        attrs: {
+                            fill: "#028E9B"
+                        },
+                        label: "10001 - 100000"
+                    },
+                    {
+                        min: 100001,
+                        max: 999999,
                         attrs: {
                             fill: "#01565E"
                         },
-                        label: "More than 10K"
+                        label: "100001 - 1000000"
+                    },
+                    {
+                        min: 1000000,
+                        attrs: {
+                            fill: "#005569"
+                        },
+                        label: "> 1000000"
                     }
                 ]
             }

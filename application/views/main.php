@@ -99,13 +99,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <div class="section" id="statistics-wrapper">
     <div class="slide" id="slide-1" data-anchor="slide1">
       <div class="container">
-        <div class="col-md-4">
-        </div>
+        <p id="stat-title"> World War II Power </p>
+        <br>
         <div class="col-md-4" id="piepower">
           <div id="pieChart"></div>
         </div>
         <div class="col-md-4">
           <div id="barChart"></div>
+        </div>
+        <div class="col-md-4">
+
         </div>
       </div>
     </div>
@@ -117,6 +120,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </style>
       <div class="container">
         <div class="col-md-3" id="war-power">
+          <p> World War II was the deadliest military conflict in history in absolute terms of total casualties. Over 60 million people were killed, which was about 3% of the 1940 world population (est. 2.3 billion). </p>
         </div>
         <div class="col-md-9">
           <p id="stat-title"> Total Casualties of World War II per Country </p>
