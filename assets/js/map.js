@@ -1389,7 +1389,7 @@ $(function () {
                 }
             }
         },
-        "1940": {
+        "Civilian Deaths": {
             "areas": {
                 "AF": {
                     "value": 0,
@@ -1420,10 +1420,10 @@ $(function () {
                     }
                 },
                 "DE": {
-                    "value": 0,
+                    "value": 2250000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Germany",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Civilian Deaths : 2250000"
                     }
                 },
                 "AD": {
@@ -1469,17 +1469,17 @@ $(function () {
                     }
                 },
                 "AU": {
-                    "value": 0,
+                    "value": 700,
                     "href": "http://en.wikipedia.org/w/index.php?search=Australia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Civilian Deaths : 700"
                     }
                 },
                 "AT": {
-                    "value": 0,
+                    "value": 2250000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Austria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Civilian Deaths : 2250000"
                     }
                 },
                 "AZ": {
@@ -1518,10 +1518,10 @@ $(function () {
                     }
                 },
                 "BE": {
-                    "value": 0,
+                    "value": 76000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belgium",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Civilian Deaths : 76000"
                     }
                 },
                 "BZ": {
@@ -1553,10 +1553,10 @@ $(function () {
                     }
                 },
                 "MM": {
-                    "value": 0,
+                    "value": 250000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Myanmar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Civilian Deaths : 250000"
                     }
                 },
                 "BO": {
@@ -1567,10 +1567,10 @@ $(function () {
                     }
                 },
                 "BA": {
-                    "value": 0,
+                    "value": 990500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bosnia And Herzegovina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Civilian Deaths : 990500"
                     }
                 },
                 "BW": {
@@ -1581,10 +1581,10 @@ $(function () {
                     }
                 },
                 "BR": {
-                    "value": 0,
+                    "value": 1000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Brazil",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Civilian Deaths : 1000"
                     }
                 },
                 "BN": {
@@ -1595,10 +1595,10 @@ $(function () {
                     }
                 },
                 "BG": {
-                    "value": 0,
+                    "value": 3000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bulgaria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Civilian Deaths : 3000"
                     }
                 },
                 "BF": {
@@ -1630,10 +1630,10 @@ $(function () {
                     }
                 },
                 "CA": {
-                    "value": 0,
+                    "value": 1700,
                     "href": "http://en.wikipedia.org/w/index.php?search=Canada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Civilian Deaths : 1700"
                     }
                 },
                 "CV": {
@@ -1658,10 +1658,10 @@ $(function () {
                     }
                 },
                 "CN": {
-                    "value": 0,
+                    "value": 7774000,
                     "href": "http://en.wikipedia.org/w/index.php?search=China",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">China</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">China</span><br />Civilian Deaths : 7774000"
                     }
                 },
                 "CY": {
@@ -1707,10 +1707,10 @@ $(function () {
                     }
                 },
                 "KR": {
-                    "value": 0,
+                    "value": 508000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Civilian Deaths : 508000"
                     }
                 },
                 "CR": {
@@ -1728,24 +1728,24 @@ $(function () {
                     }
                 },
                 "HR": {
-                    "value": 0,
+                    "value": 990500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Croatia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Civilian Deaths : 990500"
                     }
                 },
                 "CU": {
-                    "value": 0,
+                    "value": 100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cuba",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Civilian Deaths : 100"
                     }
                 },
                 "DK": {
-                    "value": 0,
+                    "value": 6000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Denmark",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Civilian Deaths : 6000"
                     }
                 },
                 "DJ": {
@@ -1798,45 +1798,45 @@ $(function () {
                     }
                 },
                 "EE": {
-                    "value": 0,
+                    "value": 49000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Estonia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Civilian Deaths : 49000"
                     }
                 },
                 "US": {
-                    "value": 0,
+                    "value": 12100,
                     "href": "http://en.wikipedia.org/w/index.php?search=United States",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Civilian Deaths : 12100"
                     }
                 },
                 "ET": {
-                    "value": 0,
+                    "value": 85000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ethiopia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Civilian Deaths : 85000"
                     }
                 },
                 "FJ": {
-                    "value": 0,
+                    "value": 10000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Fiji",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Civilian Deaths : 10000"
                     }
                 },
                 "FI": {
-                    "value": 0,
+                    "value": 2000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Finland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Civilian Deaths : 2000"
                     }
                 },
                 "FR": {
-                    "value": 0,
+                    "value": 390000,
                     "href": "http://en.wikipedia.org/w/index.php?search=France",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">France</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">France</span><br />Civilian Deaths : 390000"
                     }
                 },
                 "GA": {
@@ -1868,10 +1868,10 @@ $(function () {
                     }
                 },
                 "GR": {
-                    "value": 0,
+                    "value": 171800,
                     "href": "http://en.wikipedia.org/w/index.php?search=Greece",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Civilian Deaths : 171800"
                     }
                 },
                 "GD": {
@@ -1931,10 +1931,10 @@ $(function () {
                     }
                 },
                 "HU": {
-                    "value": 0,
+                    "value": 264000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Hungary",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Civilian Deaths : 264000"
                     }
                 },
                 "JM": {
@@ -1945,10 +1945,10 @@ $(function () {
                     }
                 },
                 "JP": {
-                    "value": 0,
+                    "value": 625000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Japan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Civilian Deaths : 625000"
                     }
                 },
                 "MH": {
@@ -1980,10 +1980,10 @@ $(function () {
                     }
                 },
                 "ID": {
-                    "value": 0,
+                    "value": 300000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Indonesia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Civilian Deaths : 300000"
                     }
                 },
                 "JO": {
@@ -2001,24 +2001,24 @@ $(function () {
                     }
                 },
                 "IQ": {
-                    "value": 0,
+                    "value": 200,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iraq",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Civilian Deaths : 200"
                     }
                 },
                 "IE": {
-                    "value": 0,
+                    "value": 100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ireland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Civilian Deaths : 100"
                     }
                 },
                 "IS": {
-                    "value": 0,
+                    "value": 200,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iceland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Civilian Deaths : 200"
                     }
                 },
                 "IL": {
@@ -2029,10 +2029,10 @@ $(function () {
                     }
                 },
                 "IT": {
-                    "value": 0,
+                    "value": 153200,
                     "href": "http://en.wikipedia.org/w/index.php?search=Italy",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Civilian Deaths : 153200"
                     }
                 },
                 "KZ": {
@@ -2085,10 +2085,10 @@ $(function () {
                     }
                 },
                 "LV": {
-                    "value": 0,
+                    "value": 220000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Latvia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Civilian Deaths : 220000"
                     }
                 },
                 "LB": {
@@ -2120,24 +2120,24 @@ $(function () {
                     }
                 },
                 "LT": {
-                    "value": 0,
+                    "value": 345000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lithuania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Civilian Deaths : 345000"
                     }
                 },
                 "LU": {
-                    "value": 0,
+                    "value": 5000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Luxembourg",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Civilian Deaths : 5000"
                     }
                 },
                 "MK": {
-                    "value": 0,
+                    "value": 990500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Macedonia, The Former Yugoslav Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Civilian Deaths : 990500"
                     }
                 },
                 "MG": {
@@ -2148,10 +2148,10 @@ $(function () {
                     }
                 },
                 "MY": {
-                    "value": 0,
+                    "value": 100000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malaysia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Civilian Deaths : 100000"
                     }
                 },
                 "MW": {
@@ -2176,7 +2176,7 @@ $(function () {
                     }
                 },
                 "MT": {
-                    "value": 0,
+                    "value": 1500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malta",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Malta</span><br />Civilian Deaths : 0"
@@ -2186,7 +2186,7 @@ $(function () {
                     "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Morocco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Civilian Deaths : 1500"
                     }
                 },
                 "MU": {
@@ -2204,17 +2204,17 @@ $(function () {
                     }
                 },
                 "MX": {
-                    "value": 0,
+                    "value": 100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mexico",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Civilian Deaths : 100"
                     }
                 },
                 "FM": {
-                    "value": 0,
+                    "value": 500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Micronesia, Federated States Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Civilian Deaths : 500"
                     }
                 },
                 "MD": {
@@ -2239,10 +2239,10 @@ $(function () {
                     }
                 },
                 "ME": {
-                    "value": 0,
+                    "value": 990500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Montenegro",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Civilian Deaths : 990500"
                     }
                 },
                 "MZ": {
@@ -2288,10 +2288,10 @@ $(function () {
                     }
                 },
                 "NO": {
-                    "value": 0,
+                    "value": 8200,
                     "href": "http://en.wikipedia.org/w/index.php?search=Norway",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Civilian Deaths : 8200"
                     }
                 },
                 "NZ": {
@@ -2344,10 +2344,10 @@ $(function () {
                     }
                 },
                 "PG": {
-                    "value": 0,
+                    "value": 15000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Papua New Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Civilian Deaths : 15000"
                     }
                 },
                 "PY": {
@@ -2358,10 +2358,10 @@ $(function () {
                     }
                 },
                 "NL": {
-                    "value": 0,
+                    "value": 187300,
                     "href": "http://en.wikipedia.org/w/index.php?search=Netherlands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Civilian Deaths : 187300"
                     }
                 },
                 "PE": {
@@ -2372,17 +2372,17 @@ $(function () {
                     }
                 },
                 "PH": {
-                    "value": 0,
+                    "value": 164000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Philippines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Civilian Deaths : 164000"
                     }
                 },
                 "PL": {
-                    "value": 0,
+                    "value": 5720000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Poland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Civilian Deaths : 5720000"
                     }
                 },
                 "PT": {
@@ -2407,24 +2407,24 @@ $(function () {
                     }
                 },
                 "RO": {
-                    "value": 0,
+                    "value": 200000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Romania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Civilian Deaths : 200000"
                     }
                 },
                 "GB": {
-                    "value": 0,
+                    "value": 67200,
                     "href": "http://en.wikipedia.org/w/index.php?search=United Kingdom",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Civilian Deaths : 67200"
                     }
                 },
                 "RU": {
-                    "value": 0,
+                    "value": 10000000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Russian Federation",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Civilian Deaths : 10000000"
                     }
                 },
                 "RW": {
@@ -2491,10 +2491,10 @@ $(function () {
                     }
                 },
                 "RS": {
-                    "value": 0,
+                    "value": 990500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Serbia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Civilian Deaths : 990500"
                     }
                 },
                 "SC": {
@@ -2512,10 +2512,10 @@ $(function () {
                     }
                 },
                 "SG": {
-                    "value": 0,
+                    "value": 100000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Singapore",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Civilian Deaths : 100000"
                     }
                 },
                 "SK": {
@@ -2526,10 +2526,10 @@ $(function () {
                     }
                 },
                 "SI": {
-                    "value": 0,
+                    "value": 990500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Civilian Deaths : 990500"
                     }
                 },
                 "SO": {
@@ -2561,17 +2561,17 @@ $(function () {
                     }
                 },
                 "SE": {
-                    "value": 0,
+                    "value": 2000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sweden",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Civilian Deaths : 2000"
                     }
                 },
                 "CH": {
-                    "value": 0,
+                    "value": 100,
                     "href": "http://en.wikipedia.org/w/index.php?search=Switzerland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Civilian Deaths : 100"
                     }
                 },
                 "SR": {
@@ -2617,24 +2617,24 @@ $(function () {
                     }
                 },
                 "CZ": {
-                    "value": 0,
+                    "value": 307000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Czech Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Civilian Deaths : 307000"
                     }
                 },
                 "TH": {
-                    "value": 0,
+                    "value": 2000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Thailand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Civilian Deaths : 2000"
                     }
                 },
                 "TL": {
-                    "value": 0,
+                    "value": 55000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Timor-leste",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Civilian Deaths : 55000"
                     }
                 },
                 "TG": {
@@ -2776,1357 +2776,1357 @@ $(function () {
                 }
             }
         },
-        "2005": {
+        "Famine and Disease": {
             "areas": {
                 "AF": {
-                    "value": 44087235,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Afghanistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Population : 44087235"
+                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Famine and Disease : 0"
                     }
                 },
                 "ZA": {
-                    "value": 48673694,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=South Africa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Population : 48673694"
+                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Famine and Disease : 0"
                     }
                 },
                 "AL": {
-                    "value": 4818075,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Albania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Famine and Disease : 0"
                     }
                 },
                 "DZ": {
-                    "value": 45569745,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Algeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Population : 45569745"
+                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Famine and Disease : 0"
                     }
                 },
                 "DE": {
-                    "value": 42734513,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Germany",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Population : 42734513"
+                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Famine and Disease : 0"
                     }
                 },
                 "AD": {
-                    "value": 24770727,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Andorra",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Population : 24770727"
+                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Famine and Disease : 0"
                     }
                 },
                 "AO": {
-                    "value": 23763498,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Angola",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Population : 23763498"
+                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Famine and Disease : 0"
                     }
                 },
                 "AG": {
-                    "value": 47814533,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Antigua And Barbuda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Population : 47814533"
+                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Famine and Disease : 0"
                     }
                 },
                 "SA": {
-                    "value": 6635110,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saudi Arabia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Famine and Disease : 0"
                     }
                 },
                 "AR": {
-                    "value": 47079676,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Argentina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Population : 47079676"
+                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Famine and Disease : 0"
                     }
                 },
                 "AM": {
-                    "value": 48207553,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Armenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Population : 48207553"
+                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Famine and Disease : 0"
                     }
                 },
                 "AU": {
-                    "value": 50410297,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Australia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Population : 50410297"
+                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Famine and Disease : 0"
                     }
                 },
                 "AT": {
-                    "value": 8792154,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Austria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Famine and Disease : 0"
                     }
                 },
                 "AZ": {
-                    "value": 46341162,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Azerbaijan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Population : 46341162"
+                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Famine and Disease : 0"
                     }
                 },
                 "BS": {
-                    "value": 16378366,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahamas",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Population : 16378366"
+                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Famine and Disease : 0"
                     }
                 },
                 "BH": {
-                    "value": 29022662,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahrain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Population : 29022662"
+                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Famine and Disease : 0"
                     }
                 },
                 "BD": {
-                    "value": 32358768,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bangladesh",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Population : 32358768"
+                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Famine and Disease : 0"
                     }
                 },
                 "BB": {
-                    "value": 43145813,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Barbados",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Population : 43145813"
+                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Famine and Disease : 0"
                     }
                 },
                 "BE": {
-                    "value": 16254062,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belgium",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Population : 16254062"
+                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Famine and Disease : 0"
                     }
                 },
                 "BZ": {
-                    "value": 49167255,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belize",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Population : 49167255"
+                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Famine and Disease : 0"
                     }
                 },
                 "BJ": {
-                    "value": 30538077,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Benin",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Population : 30538077"
+                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Famine and Disease : 0"
                     }
                 },
                 "BT": {
-                    "value": 28134253,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bhutan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Population : 28134253"
+                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Famine and Disease : 0"
                     }
                 },
                 "BY": {
-                    "value": 45962766,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Belarus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Population : 45962766"
+                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Famine and Disease : 0"
                     }
                 },
                 "MM": {
-                    "value": 26609698,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Myanmar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Population : 26609698"
+                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Famine and Disease : 0"
                     }
                 },
                 "BO": {
-                    "value": 46383206,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bolivia, Plurinational State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Population : 46383206"
+                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "BA": {
-                    "value": 21897107,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bosnia And Herzegovina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Population : 21897107"
+                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Famine and Disease : 0"
                     }
                 },
                 "BW": {
-                    "value": 13782602,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Botswana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Population : 13782602"
+                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Famine and Disease : 0"
                     }
                 },
                 "BR": {
-                    "value": 26865619,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Brazil",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Population : 26865619"
+                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Famine and Disease : 0"
                     }
                 },
                 "BN": {
-                    "value": 33097281,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Brunei Darussalam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Population : 33097281"
+                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Famine and Disease : 0"
                     }
                 },
                 "BG": {
-                    "value": 15075000,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Bulgaria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Population : 15075000"
+                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Famine and Disease : 0"
                     }
                 },
                 "BF": {
-                    "value": 37641696,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Burkina Faso",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Population : 37641696"
+                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Famine and Disease : 0"
                     }
                 },
                 "BI": {
-                    "value": 25600641,
+                    "value": 3000000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Burundi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Population : 25600641"
+                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Famine and Disease : 300000"
                     }
                 },
                 "KH": {
-                    "value": 33733426,
+                    "value": 1500000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cambodia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Population : 33733426"
+                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Famine and Disease : 1500000"
                     }
                 },
                 "CM": {
-                    "value": 28258557,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cameroon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Population : 28258557"
+                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Famine and Disease : 0"
                     }
                 },
                 "CA": {
-                    "value": 25818173,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Canada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Population : 25818173"
+                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Famine and Disease : 0"
                     }
                 },
                 "CV": {
-                    "value": 28430389,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cape Verde",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Population : 28430389"
+                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Famine and Disease : 0"
                     }
                 },
                 "CF": {
-                    "value": 1494766,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Central African Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Famine and Disease : 0"
                     }
                 },
                 "CL": {
-                    "value": 52088404,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Chile",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Population : 52088404"
+                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Famine and Disease : 0"
                     }
                 },
                 "CN": {
-                    "value": 36340158,
+                    "value": 7500000,
                     "href": "http://en.wikipedia.org/w/index.php?search=China",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">China</span><br />Population : 36340158"
+                        "content": "<span style=\"font-weight:bold;\">China</span><br />Famine and Disease : 7500000"
                     }
                 },
                 "CY": {
-                    "value": 11020489,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cyprus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Population : 11020489"
+                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Famine and Disease : 0"
                     }
                 },
                 "CO": {
-                    "value": 39334427,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Colombia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Population : 39334427"
+                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Famine and Disease : 0"
                     }
                 },
                 "KM": {
-                    "value": 47255164,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Comoros",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Population : 47255164"
+                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Famine and Disease : 0"
                     }
                 },
                 "CG": {
-                    "value": 37385776,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Population : 37385776"
+                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Famine and Disease : 0"
                     }
                 },
                 "CD": {
-                    "value": 38886566,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo, The Democratic Republic Of The",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Population : 38886566"
+                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Famine and Disease : 0"
                     }
                 },
                 "KP": {
-                    "value": 40555533,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Democratic People's Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Population : 40555533"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "KR": {
-                    "value": 4399462,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "CR": {
-                    "value": 27083151,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Costa Rica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Population : 27083151"
+                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Famine and Disease : 0"
                     }
                 },
                 "CI": {
-                    "value": 27794244,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=C\u00d4te D'ivoire",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Population : 27794244"
+                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Famine and Disease : 0"
                     }
                 },
                 "HR": {
-                    "value": 48211209,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Croatia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Population : 48211209"
+                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Famine and Disease : 0"
                     }
                 },
                 "CU": {
-                    "value": 4011926,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Cuba",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Famine and Disease : 0"
                     }
                 },
                 "DK": {
-                    "value": 33510410,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Denmark",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Population : 33510410"
+                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Famine and Disease : 0"
                     }
                 },
                 "DJ": {
-                    "value": 43259149,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Djibouti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Population : 43259149"
+                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Famine and Disease : 0"
                     }
                 },
                 "DM": {
-                    "value": 15504580,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Population : 15504580"
+                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Famine and Disease : 0"
                     }
                 },
                 "EG": {
-                    "value": 36733179,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Egypt",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Population : 36733179"
+                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Famine and Disease : 0"
                     }
                 },
                 "AE": {
-                    "value": 54795676,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=United Arab Emirates",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Population : 54795676"
+                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Famine and Disease : 0"
                     }
                 },
                 "EC": {
-                    "value": 1046905,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ecuador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Famine and Disease : 0"
                     }
                 },
                 "ER": {
-                    "value": 45388773,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Eritrea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Population : 45388773"
+                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Famine and Disease : 0"
                     }
                 },
                 "ES": {
-                    "value": 3353845,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Spain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Famine and Disease : 0"
                     }
                 },
                 "EE": {
-                    "value": 59117075,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Estonia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Population : 59117075"
+                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Famine and Disease : 0"
                     }
                 },
                 "US": {
-                    "value": 26573138,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=United States",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Population : 26573138"
+                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Famine and Disease : 0"
                     }
                 },
                 "ET": {
-                    "value": 31166910,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ethiopia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Population : 31166910"
+                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Famine and Disease : 0"
                     }
                 },
                 "FJ": {
-                    "value": 14314551,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Fiji",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Population : 14314551"
+                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Famine and Disease : 0"
                     }
                 },
                 "FI": {
-                    "value": 44602732,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Finland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Population : 44602732"
+                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Famine and Disease : 0"
                     }
                 },
                 "FR": {
-                    "value": 35603473,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=France",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">France</span><br />Population : 35603473"
+                        "content": "<span style=\"font-weight:bold;\">France</span><br />Famine and Disease : 0"
                     }
                 },
                 "GA": {
-                    "value": 15892117,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Gabon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Population : 15892117"
+                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Famine and Disease : 0"
                     }
                 },
                 "GM": {
-                    "value": 30305920,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Gambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Population : 30305920"
+                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Famine and Disease : 0"
                     }
                 },
                 "GE": {
-                    "value": 39330771,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Georgia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Population : 39330771"
+                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Famine and Disease : 0"
                     }
                 },
                 "GH": {
-                    "value": 33753534,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ghana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Population : 33753534"
+                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Famine and Disease : 0"
                     }
                 },
                 "GR": {
-                    "value": 12667520,
+                    "value": 450000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Greece",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Population : 12667520"
+                        "content": "<span style=\"font-weight:bold;\">Greece</span><br />Famine and Disease : 450000"
                     }
                 },
                 "GD": {
-                    "value": 41968579,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Grenada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Population : 41968579"
+                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Famine and Disease : 0"
                     }
                 },
                 "GT": {
-                    "value": 41429318,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guatemala",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Population : 41429318"
+                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Famine and Disease : 0"
                     }
                 },
                 "GN": {
-                    "value": 56588947,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Population : 56588947"
+                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Famine and Disease : 0"
                     }
                 },
                 "GQ": {
-                    "value": 4646243,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Equatorial Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Famine and Disease : 0"
                     }
                 },
                 "GW": {
-                    "value": 9993152,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea-bissau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Famine and Disease : 0"
                     }
                 },
                 "GY": {
-                    "value": 19076498,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Guyana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Population : 19076498"
+                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Famine and Disease : 0"
                     }
                 },
                 "HT": {
-                    "value": 49825336,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Haiti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Population : 49825336"
+                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Famine and Disease : 0"
                     }
                 },
                 "HN": {
-                    "value": 4931411,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Honduras",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Population : 4931411"
+                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Famine and Disease : 0"
                     }
                 },
                 "HU": {
-                    "value": 44820264,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Hungary",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Population : 44820264"
+                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Famine and Disease : 0"
                     }
                 },
                 "JM": {
-                    "value": 30300436,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Jamaica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Population : 30300436"
+                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Famine and Disease : 0"
                     }
                 },
                 "JP": {
-                    "value": 49028327,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Japan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Population : 49028327"
+                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Famine and Disease : 0"
                     }
                 },
                 "MH": {
-                    "value": 56576151,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Marshall Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Population : 56576151"
+                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Famine and Disease : 0"
                     }
                 },
                 "PW": {
-                    "value": 47240540,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Palau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Population : 47240540"
+                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Famine and Disease : 0"
                     }
                 },
                 "SB": {
-                    "value": 43279257,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Solomon Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Population : 43279257"
+                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Famine and Disease : 0"
                     }
                 },
                 "IN": {
-                    "value": 59813544,
+                    "value": 2000000,
                     "href": "http://en.wikipedia.org/w/index.php?search=India",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">India</span><br />Population : 59813544"
+                        "content": "<span style=\"font-weight:bold;\">India</span><br />Famine and Disease : 2000000"
                     }
                 },
                 "ID": {
-                    "value": 52883585,
+                    "value": 3200000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Indonesia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Population : 52883585"
+                        "content": "<span style=\"font-weight:bold;\">Indonesia</span><br />Famine and Disease : 3200000"
                     }
                 },
                 "JO": {
-                    "value": 7894604,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Jordan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Population : 7894604"
+                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Famine and Disease : 0"
                     }
                 },
                 "IR": {
-                    "value": 56141086,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iran, Islamic Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Population : 56141086"
+                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "IQ": {
-                    "value": 57846613,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iraq",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Population : 57846613"
+                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Famine and Disease : 0"
                     }
                 },
                 "IE": {
-                    "value": 36906839,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ireland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Population : 36906839"
+                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Famine and Disease : 0"
                     }
                 },
                 "IS": {
-                    "value": 7273083,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Iceland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Population : 7273083"
+                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Famine and Disease : 0"
                     }
                 },
                 "IL": {
-                    "value": 37064047,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Israel",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Population : 37064047"
+                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Famine and Disease : 0"
                     }
                 },
                 "IT": {
-                    "value": 48743158,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Italy",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Population : 48743158"
+                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Famine and Disease : 0"
                     }
                 },
                 "KZ": {
-                    "value": 21749039,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kazakhstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Population : 21749039"
+                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Famine and Disease : 0"
                     }
                 },
                 "KE": {
-                    "value": 36016602,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kenya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Population : 36016602"
+                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Famine and Disease : 0"
                     }
                 },
                 "KG": {
-                    "value": 44076267,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kyrgyzstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Population : 44076267"
+                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Famine and Disease : 0"
                     }
                 },
                 "KI": {
-                    "value": 8168805,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kiribati",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Population : 8168805"
+                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Famine and Disease : 0"
                     }
                 },
                 "KW": {
-                    "value": 50463309,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Kuwait",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Population : 50463309"
+                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Famine and Disease : 0"
                     }
                 },
                 "LA": {
-                    "value": 54815784,
+                    "value": 1500000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lao People's Democratic Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Population : 54815784"
+                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Famine and Disease : 1500000"
                     }
                 },
                 "LS": {
-                    "value": 45355869,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lesotho",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Population : 45355869"
+                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Famine and Disease : 0"
                     }
                 },
                 "LV": {
-                    "value": 1639178,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Latvia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Population : 1639178"
+                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Famine and Disease : 0"
                     }
                 },
                 "LB": {
-                    "value": 16352774,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lebanon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Population : 16352774"
+                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Famine and Disease : 0"
                     }
                 },
                 "LR": {
-                    "value": 54311255,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Liberia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Population : 54311255"
+                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Famine and Disease : 0"
                     }
                 },
                 "LY": {
-                    "value": 39030979,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Libya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Population : 39030979"
+                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Famine and Disease : 0"
                     }
                 },
                 "LI": {
-                    "value": 4819903,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Liechtenstein",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Population : 4819903"
+                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Famine and Disease : 0"
                     }
                 },
                 "LT": {
-                    "value": 22370560,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Lithuania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Population : 22370560"
+                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Famine and Disease : 0"
                     }
                 },
                 "LU": {
-                    "value": 55093641,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Luxembourg",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Population : 55093641"
+                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Famine and Disease : 0"
                     }
                 },
                 "MK": {
-                    "value": 53179721,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Macedonia, The Former Yugoslav Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Population : 53179721"
+                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "MG": {
-                    "value": 23326605,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Madagascar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Population : 23326605"
+                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Famine and Disease : 0"
                     }
                 },
                 "MY": {
-                    "value": 21719791,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malaysia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Population : 21719791"
+                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Famine and Disease : 0"
                     }
                 },
                 "MW": {
-                    "value": 47803565,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malawi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Population : 47803565"
+                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Famine and Disease : 0"
                     }
                 },
                 "MV": {
-                    "value": 26030221,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Maldives",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Population : 26030221"
+                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Famine and Disease : 0"
                     }
                 },
                 "ML": {
-                    "value": 32824908,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mali",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Population : 32824908"
+                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Famine and Disease : 0"
                     }
                 },
                 "MT": {
-                    "value": 57453592,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malta",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Population : 57453592"
+                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Famine and Disease : 0"
                     }
                 },
                 "MA": {
-                    "value": 53031653,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Morocco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Population : 53031653"
+                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Famine and Disease : 0"
                     }
                 },
                 "MU": {
-                    "value": 45560605,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritius",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Population : 45560605"
+                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Famine and Disease : 0"
                     }
                 },
                 "MR": {
-                    "value": 38930438,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Population : 38930438"
+                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Famine and Disease : 0"
                     }
                 },
                 "MX": {
-                    "value": 22875088,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mexico",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Population : 22875088"
+                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Famine and Disease : 0"
                     }
                 },
                 "FM": {
-                    "value": 1518530,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Micronesia, Federated States Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Population : 1518530"
+                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "MD": {
-                    "value": 49998996,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Moldova, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Population : 49998996"
+                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "MC": {
-                    "value": 17308819,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Monaco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Population : 17308819"
+                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Famine and Disease : 0"
                     }
                 },
                 "MN": {
-                    "value": 20937405,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mongolia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Population : 20937405"
+                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Famine and Disease : 0"
                     }
                 },
                 "ME": {
-                    "value": 33654822,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Montenegro",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Population : 33654822"
+                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Famine and Disease : 0"
                     }
                 },
                 "MZ": {
-                    "value": 7523520,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Mozambique",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Population : 7523520"
+                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Famine and Disease : 0"
                     }
                 },
                 "NA": {
-                    "value": 33475678,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Namibia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Population : 33475678"
+                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Famine and Disease : 0"
                     }
                 },
                 "NP": {
-                    "value": 4843667,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nepal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Population : 4843667"
+                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Famine and Disease : 0"
                     }
                 },
                 "NI": {
-                    "value": 20281152,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nicaragua",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Population : 20281152"
+                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Famine and Disease : 0"
                     }
                 },
                 "NE": {
-                    "value": 36062302,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Niger",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Population : 36062302"
+                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Famine and Disease : 0"
                     }
                 },
                 "NG": {
-                    "value": 3196637,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Nigeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Population : 3196637"
+                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Famine and Disease : 0"
                     }
                 },
                 "NO": {
-                    "value": 17647000,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Norway",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Population : 17647000"
+                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Famine and Disease : 0"
                     }
                 },
                 "NZ": {
-                    "value": 41888147,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=New Zealand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Population : 41888147"
+                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Famine and Disease : 0"
                     }
                 },
                 "OM": {
-                    "value": 43893466,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Oman",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Population : 43893466"
+                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Famine and Disease : 0"
                     }
                 },
                 "UG": {
-                    "value": 51887323,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uganda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Population : 51887323"
+                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Famine and Disease : 0"
                     }
                 },
                 "UZ": {
-                    "value": 12550528,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uzbekistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Population : 12550528"
+                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Famine and Disease : 0"
                     }
                 },
                 "PK": {
-                    "value": 29216431,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Pakistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Population : 29216431"
+                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Famine and Disease : 0"
                     }
                 },
                 "PS": {
-                    "value": 29145139,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Palestine, State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Population : 29145139"
+                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "PA": {
-                    "value": 35413361,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Panama",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Population : 35413361"
+                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Famine and Disease : 0"
                     }
                 },
                 "PG": {
-                    "value": 32607376,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Papua New Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Population : 32607376"
+                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Famine and Disease : 0"
                     }
                 },
                 "PY": {
-                    "value": 2856628,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Paraguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Population : 2856628"
+                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Famine and Disease : 0"
                     }
                 },
                 "NL": {
-                    "value": 19895444,
+                    "value": 16000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Netherlands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Population : 19895444"
+                        "content": "<span style=\"font-weight:bold;\">Netherlands</span><br />Famine and Disease : 16000"
                     }
                 },
                 "PE": {
-                    "value": 19290375,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Peru",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Population : 19290375"
+                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Famine and Disease : 0"
                     }
                 },
                 "PH": {
-                    "value": 31020670,
+                    "value": 336000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Philippines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Population : 31020670"
+                        "content": "<span style=\"font-weight:bold;\">Philippines</span><br />Famine and Disease : 336000"
                     }
                 },
                 "PL": {
-                    "value": 13349365,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Poland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Population : 13349365"
+                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Famine and Disease : 0"
                     }
                 },
                 "PT": {
-                    "value": 14272506,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Portugal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Population : 14272506"
+                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Famine and Disease : 0"
                     }
                 },
                 "QA": {
-                    "value": 39083991,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Qatar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Population : 39083991"
+                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Famine and Disease : 0"
                     }
                 },
                 "DO": {
-                    "value": 50843534,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominican Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Population : 50843534"
+                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Famine and Disease : 0"
                     }
                 },
                 "RO": {
-                    "value": 21385266,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Romania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Population : 21385266"
+                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Famine and Disease : 0"
                     }
                 },
                 "GB": {
-                    "value": 40354453,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=United Kingdom",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Population : 40354453"
+                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Famine and Disease : 0"
                     }
                 },
                 "RU": {
-                    "value": 40509833,
+                    "value": 6500000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Russian Federation",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Population : 40509833"
+                        "content": "<span style=\"font-weight:bold;\">Russian Federation</span><br />Famine and Disease : 6500000"
                     }
                 },
                 "RW": {
-                    "value": 45279093,
+                    "value": 300000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Rwanda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Population : 45279093"
+                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Famine and Disease : 300000"
                     }
                 },
                 "KN": {
-                    "value": 17604956,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Kitts And Nevis",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Population : 17604956"
+                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Famine and Disease : 0"
                     }
                 },
                 "SM": {
-                    "value": 36369406,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=San Marino",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Population : 36369406"
+                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Famine and Disease : 0"
                     }
                 },
                 "VC": {
-                    "value": 59133527,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Vincent And The Grenadines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Population : 59133527"
+                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Famine and Disease : 0"
                     }
                 },
                 "LC": {
-                    "value": 57380472,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Lucia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Population : 57380472"
+                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Famine and Disease : 0"
                     }
                 },
                 "SV": {
-                    "value": 22599060,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=El Salvador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Population : 22599060"
+                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Famine and Disease : 0"
                     }
                 },
                 "WS": {
-                    "value": 30395493,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Samoa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Population : 30395493"
+                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Famine and Disease : 0"
                     }
                 },
                 "ST": {
-                    "value": 40670697,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sao Tome And Principe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Population : 40670697"
+                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Famine and Disease : 0"
                     }
                 },
                 "SN": {
-                    "value": 40350797,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Senegal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Population : 40350797"
+                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Famine and Disease : 0"
                     }
                 },
                 "RS": {
-                    "value": 27008203,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Serbia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Population : 27008203"
+                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Famine and Disease : 0"
                     }
                 },
                 "SC": {
-                    "value": 20560837,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Seychelles",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Population : 20560837"
+                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Famine and Disease : 0"
                     }
                 },
                 "SL": {
-                    "value": 20686969,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sierra Leone",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Population : 20686969"
+                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Famine and Disease : 0"
                     }
                 },
                 "SG": {
-                    "value": 37243192,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Singapore",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Population : 37243192"
+                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Famine and Disease : 0"
                     }
                 },
                 "SK": {
-                    "value": 51423011,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovakia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Population : 51423011"
+                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Famine and Disease : 0"
                     }
                 },
                 "SI": {
-                    "value": 34943564,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Population : 34943564"
+                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Famine and Disease : 0"
                     }
                 },
                 "SO": {
-                    "value": 4797967,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Somalia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Population : 4797967"
+                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Famine and Disease : 0"
                     }
                 },
                 "SD": {
-                    "value": 1260781,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Population : 1260781"
+                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Famine and Disease : 0"
                     }
                 },
                 "SS": {
-                    "value": 26584106,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=South Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Population : 26584106"
+                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Famine and Disease : 0"
                     }
                 },
                 "LK": {
-                    "value": 11771798,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sri Lanka",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Population : 11771798"
+                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Famine and Disease : 0"
                     }
                 },
                 "SE": {
-                    "value": 28569318,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Sweden",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Population : 28569318"
+                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Famine and Disease : 0"
                     }
                 },
                 "CH": {
-                    "value": 35356693,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Switzerland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Population : 35356693"
+                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Famine and Disease : 0"
                     }
                 },
                 "SR": {
-                    "value": 32982117,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Suriname",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Population : 32982117"
+                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Famine and Disease : 0"
                     }
                 },
                 "SZ": {
-                    "value": 39023667,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Swaziland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Population : 39023667"
+                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Famine and Disease : 0"
                     }
                 },
                 "SY": {
-                    "value": 37716644,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Syrian Arab Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Population : 37716644"
+                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Famine and Disease : 0"
                     }
                 },
                 "TJ": {
-                    "value": 32834049,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tajikistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Population : 32834049"
+                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Famine and Disease : 0"
                     }
                 },
                 "TZ": {
-                    "value": 1357666,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tanzania, United Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Population : 1357666"
+                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "TD": {
-                    "value": 54927292,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Chad",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Population : 54927292"
+                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Famine and Disease : 0"
                     }
                 },
                 "CZ": {
-                    "value": 7905572,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Czech Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Population : 7905572"
+                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Famine and Disease : 0"
                     }
                 },
                 "TH": {
-                    "value": 36745975,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Thailand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Population : 36745975"
+                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Famine and Disease : 0"
                     }
                 },
                 "TL": {
-                    "value": 12201379,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Timor-leste",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Population : 12201379"
+                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Famine and Disease : 0"
                     }
                 },
                 "TG": {
-                    "value": 27660800,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Togo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Population : 27660800"
+                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Famine and Disease : 0"
                     }
                 },
                 "TO": {
-                    "value": 4651727,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tonga",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Population : 4651727"
+                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Famine and Disease : 0"
                     }
                 },
                 "TT": {
-                    "value": 295596,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Trinidad And Tobago",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Population : 295596"
+                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Famine and Disease : 0"
                     }
                 },
                 "TN": {
-                    "value": 56153882,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tunisia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Population : 56153882"
+                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Famine and Disease : 0"
                     }
                 },
                 "TM": {
-                    "value": 15252316,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkmenistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Population : 15252316"
+                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Famine and Disease : 0"
                     }
                 },
                 "TR": {
-                    "value": 3620733,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkey",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Population : 3620733"
+                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Famine and Disease : 0"
                     }
                 },
                 "TV": {
-                    "value": 26436038,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Tuvalu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Population : 26436038"
+                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Famine and Disease : 0"
                     }
                 },
                 "VU": {
-                    "value": 34005798,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Vanuatu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Population : 34005798"
+                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Famine and Disease : 0"
                     }
                 },
                 "VE": {
-                    "value": 45779965,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Venezuela, Bolivarian Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Population : 45779965"
+                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Famine and Disease : 0"
                     }
                 },
                 "VN": {
-                    "value": 10428216,
+                    "value": 1500000,
                     "href": "http://en.wikipedia.org/w/index.php?search=Viet Nam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Viet Nam</span><br />Population : 10428216"
+                        "content": "<span style=\"font-weight:bold;\">Viet Nam</span><br />Famine and Disease : 1500000"
                     }
                 },
                 "UA": {
-                    "value": 8470425,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Ukraine",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Population : 8470425"
+                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Famine and Disease : 0"
                     }
                 },
                 "UY": {
-                    "value": 56197754,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Uruguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Population : 56197754"
+                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Famine and Disease : 0"
                     }
                 },
                 "YE": {
-                    "value": 57471872,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Yemen",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Population : 57471872"
+                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Famine and Disease : 0"
                     }
                 },
                 "ZM": {
-                    "value": 739801,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Zambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Population : 739801"
+                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Famine and Disease : 0"
                     }
                 },
                 "ZW": {
-                    "value": 49351883,
+                    "value": 0,
                     "href": "http://en.wikipedia.org/w/index.php?search=Zimbabwe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Population : 49351883"
+                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Famine and Disease : 0"
                     }
                 }
             },
@@ -4144,19 +4144,19 @@ $(function () {
                     }
                 },
                 "sydney": {
-                    "value": 1034216,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Sydney</span><br />Population: 1034216"
                     }
                 },
                 "brasilia": {
-                    "value": 1088263,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Brasilia</span><br />Population: 1088263"
                     }
                 },
                 "tokyo": {
-                    "value": 1182471,
+                    "value": 0,
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Tokyo</span><br />Population: 1182471"
                     }
@@ -15316,10 +15316,25 @@ $(function () {
         }
     });
 
-    $('input[type=radio][name=casualties-detail]').change(function() {      
-      $(".world").trigger('update', [{
-          mapOptions: data['Civilian Deaths']
-      }]); 
+    $('input[type=radio][name=casualties-detail]').change(function() {
+      if (this.value == 'Military Deaths') {
+        $(".world").trigger('update', [{
+          mapOptions: data['Military Deaths'],
+          animDuration: 300
+        }]);
+      }
+      else if (this.value == 'Civilian Deaths') {
+        $(".world").trigger('update', [{
+          mapOptions: data['Civilian Deaths'],
+          animDuration: 300
+        }]);
+      }
+      else if (this.value == 'Famine and Disease') {
+        $(".world").trigger('update', [{
+          mapOptions: data['Famine and Disease'],
+          animDuration: 300
+        }]);
+      }      
     });
 
     // Mapael initialisation

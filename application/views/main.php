@@ -119,7 +119,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-3" id="war-power">
         </div>
         <div class="col-md-9">
-          <p id="treemap-title"> Total Casualties of World War II per Country </p>
+          <p id="stat-title"> Total Casualties of World War II per Country </p>
           <svg width="640" height="480"></svg>
           <form>
             <label class="label-treemap"><input type="radio" name="mode" value="sumBySize" checked> Total Death</label>
@@ -130,6 +130,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
     <div class="slide" id="slide-3" data-anchor="slide3">
       <div class="container">
+        <p id="stat-title"> Casualties Detail per Country </p>
         <div class="world">
           <div class="rightPanel">
               <h2 class="white">Select Casualties Detail</h2>
@@ -139,6 +140,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <form>
                   <label><input type="radio" name="casualties-detail" value="Military Deaths" checked>Military Deaths</label>
                   <label><input type="radio" name="casualties-detail" value="Civilian Deaths">Civilian Deaths</label>
+                  <label><input type="radio" name="casualties-detail" value="Famine and Disease">Famine and Disease</label>
                 </form>
               </div>
               <div class="areaLegend"></div>
