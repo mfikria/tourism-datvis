@@ -107,8 +107,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="col-md-4">
           <div id="barChart"></div>
         </div>
-        <div class="col-md-4">
-
+        <div class="col-md-4 white">
+          <p style="font-size: 1.2em; text-align: left; padding-left: 120px; padding-top: 30px;">In World War II the chief Allied powers were Great Britain, France (except during the German occupation, 1940–44), the Soviet Union (after its entry in June 1941), the United States (after its entry on December 8, 1941), and China.
+            Whilst the Axis Power, also known as the Rome-Berlin-Tokyo Axis, were the nations that fought in WWII against the Allied Powers.
+          </p>
         </div>
       </div>
     </div>
