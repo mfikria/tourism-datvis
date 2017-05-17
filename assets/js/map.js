@@ -5,10 +5,10 @@ $(function () {
         "Military Deaths": {
             "areas": {
                 "AF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Afghanistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br /> Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br /> Military Deaths : N/A"
                     }
                 },
                 "ZA": {
@@ -26,10 +26,10 @@ $(function () {
                     }
                 },
                 "DZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Algeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Military Deaths : N/A"
                     }
                 },
                 "DE": {
@@ -40,45 +40,45 @@ $(function () {
                     }
                 },
                 "AD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Andorra",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Military Deaths : N/A"
                     }
                 },
                 "AO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Angola",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Military Deaths : N/A"
                     }
                 },
                 "AG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Antigua And Barbuda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Military Deaths : N/A"
                     }
                 },
                 "SA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saudi Arabia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Military Deaths : N/A"
                     }
                 },
                 "AR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Argentina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Military Deaths : N/A"
                     }
                 },
                 "AM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Armenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Military Deaths : N/A"
                     }
                 },
                 "AU": {
@@ -96,38 +96,38 @@ $(function () {
                     }
                 },
                 "AZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Azerbaijan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Military Deaths : N/A"
                     }
                 },
                 "BS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahamas",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Military Deaths : N/A"
                     }
                 },
                 "BH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahrain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Military Deaths : N/A"
                     }
                 },
                 "BD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bangladesh",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Military Deaths : N/A"
                     }
                 },
                 "BB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Barbados",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Military Deaths : N/A"
                     }
                 },
                 "BE": {
@@ -138,31 +138,31 @@ $(function () {
                     }
                 },
                 "BZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Belize",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Military Deaths : N/A"
                     }
                 },
                 "BJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Benin",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Military Deaths : N/A"
                     }
                 },
                 "BT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bhutan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Military Deaths : N/A"
                     }
                 },
                 "BY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Belarus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Military Deaths : N/A"
                     }
                 },
                 "MM": {
@@ -173,10 +173,10 @@ $(function () {
                     }
                 },
                 "BO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bolivia, Plurinational State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Military Deaths : N/A"
                     }
                 },
                 "BA": {
@@ -187,10 +187,10 @@ $(function () {
                     }
                 },
                 "BW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Botswana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Military Deaths : N/A"
                     }
                 },
                 "BR": {
@@ -201,10 +201,10 @@ $(function () {
                     }
                 },
                 "BN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Brunei Darussalam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Military Deaths : N/A"
                     }
                 },
                 "BG": {
@@ -215,31 +215,31 @@ $(function () {
                     }
                 },
                 "BF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Burkina Faso",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Military Deaths : N/A"
                     }
                 },
                 "BI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Burundi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Military Deaths : N/A"
                     }
                 },
                 "KH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cambodia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Military Deaths : N/A"
                     }
                 },
                 "CM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cameroon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Military Deaths : N/A"
                     }
                 },
                 "CA": {
@@ -250,24 +250,24 @@ $(function () {
                     }
                 },
                 "CV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cape Verde",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Military Deaths : N/A"
                     }
                 },
                 "CF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Central African Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Military Deaths : N/A"
                     }
                 },
                 "CL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Chile",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Military Deaths : N/A"
                     }
                 },
                 "CN": {
@@ -278,66 +278,66 @@ $(function () {
                     }
                 },
                 "CY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cyprus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Military Deaths : N/A"
                     }
                 },
                 "CO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Colombia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Military Deaths : N/A"
                     }
                 },
                 "KM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Comoros",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Military Deaths : N/A"
                     }
                 },
                 "CG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Military Deaths : N/A"
                     }
                 },
                 "CD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo, The Democratic Republic Of The",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Military Deaths : N/A"
                     }
                 },
                 "KP": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Democratic People's Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Military Deaths : N/A"
                     }
                 },
                 "KR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Military Deaths : N/A"
                     }
                 },
                 "CR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Costa Rica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Military Deaths : N/A"
                     }
                 },
                 "CI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=C\u00d4te D'ivoire",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Military Deaths : N/A"
                     }
                 },
                 "HR": {
@@ -348,31 +348,31 @@ $(function () {
                     }
                 },
                 "CU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cuba",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Military Deaths : N/A"
                     }
                 },
                 "DK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Denmark",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Military Deaths : N/A"
                     }
                 },
                 "DJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Djibouti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Military Deaths : N/A"
                     }
                 },
                 "DM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Military Deaths : N/A"
                     }
                 },
                 "EG": {
@@ -383,31 +383,31 @@ $(function () {
                     }
                 },
                 "AE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=United Arab Emirates",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Military Deaths : N/A"
                     }
                 },
                 "EC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ecuador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Military Deaths : N/A"
                     }
                 },
                 "ER": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Eritrea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Military Deaths : N/A"
                     }
                 },
                 "ES": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Spain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Military Deaths : N/A"
                     }
                 },
                 "EE": {
@@ -432,10 +432,10 @@ $(function () {
                     }
                 },
                 "FJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Fiji",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Military Deaths : N/A"
                     }
                 },
                 "FI": {
@@ -453,31 +453,31 @@ $(function () {
                     }
                 },
                 "GA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Gabon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Military Deaths : N/A"
                     }
                 },
                 "GM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Gambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Military Deaths : N/A"
                     }
                 },
                 "GE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Georgia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Military Deaths : N/A"
                     }
                 },
                 "GH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ghana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Military Deaths : N/A"
                     }
                 },
                 "GR": {
@@ -488,59 +488,59 @@ $(function () {
                     }
                 },
                 "GD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Grenada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Military Deaths : N/A"
                     }
                 },
                 "GT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guatemala",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Military Deaths : N/A"
                     }
                 },
                 "GN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Military Deaths : N/A"
                     }
                 },
                 "GQ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Equatorial Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Military Deaths : N/A"
                     }
                 },
                 "GW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea-bissau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Military Deaths : N/A"
                     }
                 },
                 "GY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guyana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Military Deaths : N/A"
                     }
                 },
                 "HT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Haiti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Military Deaths : N/A"
                     }
                 },
                 "HN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Honduras",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Military Deaths : N/A"
                     }
                 },
                 "HU": {
@@ -551,10 +551,10 @@ $(function () {
                     }
                 },
                 "JM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Jamaica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Military Deaths : N/A"
                     }
                 },
                 "JP": {
@@ -565,24 +565,24 @@ $(function () {
                     }
                 },
                 "MH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Marshall Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Military Deaths : N/A"
                     }
                 },
                 "PW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Palau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Military Deaths : N/A"
                     }
                 },
                 "SB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Solomon Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Military Deaths : N/A"
                     }
                 },
                 "IN": {
@@ -600,10 +600,10 @@ $(function () {
                     }
                 },
                 "JO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Jordan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Military Deaths : N/A"
                     }
                 },
                 "IR": {
@@ -621,24 +621,24 @@ $(function () {
                     }
                 },
                 "IE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ireland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Military Deaths : N/A"
                     }
                 },
                 "IS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Iceland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Military Deaths : N/A"
                     }
                 },
                 "IL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Israel",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Military Deaths : N/A"
                     }
                 },
                 "IT": {
@@ -649,52 +649,52 @@ $(function () {
                     }
                 },
                 "KZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kazakhstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Military Deaths : N/A"
                     }
                 },
                 "KE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kenya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Military Deaths : N/A"
                     }
                 },
                 "KG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kyrgyzstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Military Deaths : N/A"
                     }
                 },
                 "KI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kiribati",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Military Deaths : N/A"
                     }
                 },
                 "KW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kuwait",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Military Deaths : N/A"
                     }
                 },
                 "LA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lao People's Democratic Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Military Deaths : N/A"
                     }
                 },
                 "LS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lesotho",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Military Deaths : N/A"
                     }
                 },
                 "LV": {
@@ -705,31 +705,31 @@ $(function () {
                     }
                 },
                 "LB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lebanon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Military Deaths : N/A"
                     }
                 },
                 "LR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Liberia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Military Deaths : N/A"
                     }
                 },
                 "LY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Libya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Military Deaths : N/A"
                     }
                 },
                 "LI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Liechtenstein",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Military Deaths : N/A"
                     }
                 },
                 "LT": {
@@ -740,10 +740,10 @@ $(function () {
                     }
                 },
                 "LU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Luxembourg",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Military Deaths : N/A"
                     }
                 },
                 "MK": {
@@ -754,73 +754,73 @@ $(function () {
                     }
                 },
                 "MG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Madagascar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Military Deaths : N/A"
                     }
                 },
                 "MY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Malaysia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Military Deaths : N/A"
                     }
                 },
                 "MW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Malawi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Military Deaths : N/A"
                     }
                 },
                 "MV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Maldives",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Military Deaths : N/A"
                     }
                 },
                 "ML": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mali",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Military Deaths : N/A"
                     }
                 },
                 "MT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Malta",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Military Deaths : N/A"
                     }
                 },
                 "MA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Morocco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Military Deaths : N/A"
                     }
                 },
                 "MU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritius",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Military Deaths : N/A"
                     }
                 },
                 "MR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Military Deaths : N/A"
                     }
                 },
                 "MX": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mexico",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Military Deaths : N/A"
                     }
                 },
                 "FM": {
@@ -831,17 +831,17 @@ $(function () {
                     }
                 },
                 "MD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Moldova, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Military Deaths : N/A"
                     }
                 },
                 "MC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Monaco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Military Deaths : N/A"
                     }
                 },
                 "MN": {
@@ -859,45 +859,45 @@ $(function () {
                     }
                 },
                 "MZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mozambique",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Military Deaths : N/A"
                     }
                 },
                 "NA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Namibia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Military Deaths : N/A"
                     }
                 },
                 "NP": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nepal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Military Deaths : N/A"
                     }
                 },
                 "NI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nicaragua",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Military Deaths : N/A"
                     }
                 },
                 "NE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Niger",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Military Deaths : N/A"
                     }
                 },
                 "NG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nigeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Military Deaths : N/A"
                     }
                 },
                 "NO": {
@@ -915,59 +915,59 @@ $(function () {
                     }
                 },
                 "OM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Oman",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Military Deaths : N/A"
                     }
                 },
                 "UG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uganda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Military Deaths : N/A"
                     }
                 },
                 "UZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uzbekistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Military Deaths : N/A"
                     }
                 },
                 "PK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Pakistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Military Deaths : N/A"
                     }
                 },
                 "PS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Palestine, State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Military Deaths : N/A"
                     }
                 },
                 "PA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Panama",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Military Deaths : N/A"
                     }
                 },
                 "PG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Papua New Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Military Deaths : N/A"
                     }
                 },
                 "PY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Paraguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Military Deaths : N/A"
                     }
                 },
                 "NL": {
@@ -978,10 +978,10 @@ $(function () {
                     }
                 },
                 "PE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Peru",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Military Deaths : N/A"
                     }
                 },
                 "PH": {
@@ -999,24 +999,24 @@ $(function () {
                     }
                 },
                 "PT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Portugal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Military Deaths : N/A"
                     }
                 },
                 "QA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Qatar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Military Deaths : N/A"
                     }
                 },
                 "DO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominican Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Military Deaths : N/A"
                     }
                 },
                 "RO": {
@@ -1041,66 +1041,66 @@ $(function () {
                     }
                 },
                 "RW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Rwanda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Military Deaths : N/A"
                     }
                 },
                 "KN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Kitts And Nevis",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Military Deaths : N/A"
                     }
                 },
                 "SM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=San Marino",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Military Deaths : N/A"
                     }
                 },
                 "VC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Vincent And The Grenadines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Military Deaths : N/A"
                     }
                 },
                 "LC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Lucia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Military Deaths : N/A"
                     }
                 },
                 "SV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=El Salvador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Military Deaths : N/A"
                     }
                 },
                 "WS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Samoa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Military Deaths : N/A"
                     }
                 },
                 "ST": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sao Tome And Principe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Military Deaths : N/A"
                     }
                 },
                 "SN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Senegal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Military Deaths : N/A"
                     }
                 },
                 "RS": {
@@ -1111,24 +1111,24 @@ $(function () {
                     }
                 },
                 "SC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Seychelles",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Military Deaths : N/A"
                     }
                 },
                 "SL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sierra Leone",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Military Deaths : N/A"
                     }
                 },
                 "SG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Singapore",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Military Deaths : N/A"
                     }
                 },
                 "SK": {
@@ -1146,31 +1146,31 @@ $(function () {
                     }
                 },
                 "SO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Somalia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Military Deaths : N/A"
                     }
                 },
                 "SD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Military Deaths : N/A"
                     }
                 },
                 "SS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=South Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Military Deaths : N/A"
                     }
                 },
                 "LK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sri Lanka",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Military Deaths : N/A"
                     }
                 },
                 "SE": {
@@ -1181,52 +1181,52 @@ $(function () {
                     }
                 },
                 "CH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Switzerland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Military Deaths : N/A"
                     }
                 },
                 "SR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Suriname",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Military Deaths : N/A"
                     }
                 },
                 "SZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Swaziland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Military Deaths : N/A"
                     }
                 },
                 "SY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Syrian Arab Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Military Deaths : N/A"
                     }
                 },
                 "TJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tajikistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Military Deaths : N/A"
                     }
                 },
                 "TZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tanzania, United Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Military Deaths : N/A"
                     }
                 },
                 "TD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Chad",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Military Deaths : N/A"
                     }
                 },
                 "CZ": {
@@ -1244,45 +1244,45 @@ $(function () {
                     }
                 },
                 "TL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Timor-leste",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Military Deaths : N/A"
                     }
                 },
                 "TG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Togo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Military Deaths : N/A"
                     }
                 },
                 "TO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tonga",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Military Deaths : N/A"
                     }
                 },
                 "TT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Trinidad And Tobago",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Military Deaths : N/A"
                     }
                 },
                 "TN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tunisia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Military Deaths : N/A"
                     }
                 },
                 "TM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkmenistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Military Deaths : N/A"
                     }
                 },
                 "TR": {
@@ -1293,96 +1293,96 @@ $(function () {
                     }
                 },
                 "TV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tuvalu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Military Deaths : N/A"
                     }
                 },
                 "VU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Vanuatu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Military Deaths : N/A"
                     }
                 },
                 "VE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Venezuela, Bolivarian Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Military Deaths : N/A"
                     }
                 },
                 "VN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Viet Nam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Vietnam</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Vietnam</span><br />Military Deaths : N/A"
                     }
                 },
                 "UA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ukraine",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Military Deaths : N/A"
                     }
                 },
                 "UY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uruguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Military Deaths : N/A"
                     }
                 },
                 "YE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Yemen",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Military Deaths : N/A"
                     }
                 },
                 "ZM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Zambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Military Deaths : N/A"
                     }
                 },
                 "ZW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Zimbabwe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Military Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Military Deaths : N/A"
                     }
                 }
             },
             "plots": {
                 "paris": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Paris</span><br />Population: 1448389"
                     }
                 },
                 "newyork": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">New-York</span><br />Population: 426800"
                     }
                 },
                 "sydney": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Sydney</span><br />Population: 1401819"
                     }
                 },
                 "brasilia": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Brasilia</span><br />Population: 644440"
                     }
                 },
                 "tokyo": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Tokyo</span><br />Population: 143237"
                     }
@@ -1392,31 +1392,31 @@ $(function () {
         "Civilian Deaths": {
             "areas": {
                 "AF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Afghanistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ZA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=South Africa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "AL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Albania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "DZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Algeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "DE": {
@@ -1427,45 +1427,45 @@ $(function () {
                     }
                 },
                 "AD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Andorra",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "AO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Angola",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "AG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Antigua And Barbuda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saudi Arabia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "AR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Argentina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "AM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Armenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "AU": {
@@ -1483,38 +1483,38 @@ $(function () {
                     }
                 },
                 "AZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Azerbaijan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahamas",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahrain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bangladesh",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Barbados",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BE": {
@@ -1525,31 +1525,31 @@ $(function () {
                     }
                 },
                 "BZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Belize",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Benin",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bhutan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Belarus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MM": {
@@ -1560,10 +1560,10 @@ $(function () {
                     }
                 },
                 "BO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bolivia, Plurinational State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BA": {
@@ -1574,10 +1574,10 @@ $(function () {
                     }
                 },
                 "BW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Botswana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BR": {
@@ -1588,10 +1588,10 @@ $(function () {
                     }
                 },
                 "BN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Brunei Darussalam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BG": {
@@ -1602,31 +1602,31 @@ $(function () {
                     }
                 },
                 "BF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Burkina Faso",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "BI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Burundi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Burundi</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cambodia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cambodia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cameroon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CA": {
@@ -1637,24 +1637,24 @@ $(function () {
                     }
                 },
                 "CV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cape Verde",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Central African Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Chile",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CN": {
@@ -1665,45 +1665,45 @@ $(function () {
                     }
                 },
                 "CY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cyprus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Colombia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Comoros",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo, The Democratic Republic Of The",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KP": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Democratic People's Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KR": {
@@ -1714,17 +1714,17 @@ $(function () {
                     }
                 },
                 "CR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Costa Rica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=C\u00d4te D'ivoire",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "HR": {
@@ -1749,52 +1749,52 @@ $(function () {
                     }
                 },
                 "DJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Djibouti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "DM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "EG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Egypt",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "AE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=United Arab Emirates",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "EC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ecuador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ER": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Eritrea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ES": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Spain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "EE": {
@@ -1840,31 +1840,31 @@ $(function () {
                     }
                 },
                 "GA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Gabon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Gambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Georgia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ghana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GR": {
@@ -1875,59 +1875,59 @@ $(function () {
                     }
                 },
                 "GD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Grenada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guatemala",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GQ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Equatorial Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea-bissau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "GY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guyana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "HT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Haiti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "HN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Honduras",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "HU": {
@@ -1938,10 +1938,10 @@ $(function () {
                     }
                 },
                 "JM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Jamaica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "JP": {
@@ -1952,31 +1952,31 @@ $(function () {
                     }
                 },
                 "MH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Marshall Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "PW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Palau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Solomon Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "IN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=India",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">India</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">India</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ID": {
@@ -1987,17 +1987,17 @@ $(function () {
                     }
                 },
                 "JO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Jordan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "IR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Iran, Islamic Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "IQ": {
@@ -2022,10 +2022,10 @@ $(function () {
                     }
                 },
                 "IL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Israel",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "IT": {
@@ -2036,52 +2036,52 @@ $(function () {
                     }
                 },
                 "KZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kazakhstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kenya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kyrgyzstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kiribati",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kuwait",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lao People's Democratic Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lao People's Democratic Republic</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lesotho",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LV": {
@@ -2092,31 +2092,31 @@ $(function () {
                     }
                 },
                 "LB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lebanon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Liberia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Libya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Liechtenstein",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LT": {
@@ -2141,10 +2141,10 @@ $(function () {
                     }
                 },
                 "MG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Madagascar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MY": {
@@ -2155,52 +2155,52 @@ $(function () {
                     }
                 },
                 "MW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Malawi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Maldives",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ML": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mali",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MT": {
                     "value": 1500,
                     "href": "http://en.wikipedia.org/w/index.php?search=Malta",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Morocco",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Civilian Deaths : 1500"
                     }
                 },
                 "MU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritius",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MX": {
@@ -2218,24 +2218,24 @@ $(function () {
                     }
                 },
                 "MD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Moldova, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Monaco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "MN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mongolia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ME": {
@@ -2246,45 +2246,45 @@ $(function () {
                     }
                 },
                 "MZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mozambique",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "NA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Namibia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "NP": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nepal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "NI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nicaragua",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "NE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Niger",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "NG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nigeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "NO": {
@@ -2295,52 +2295,52 @@ $(function () {
                     }
                 },
                 "NZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=New Zealand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "OM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Oman",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "UG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uganda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "UZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uzbekistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "PK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Pakistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "PS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Palestine, State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "PA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Panama",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "PG": {
@@ -2351,10 +2351,10 @@ $(function () {
                     }
                 },
                 "PY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Paraguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "NL": {
@@ -2365,10 +2365,10 @@ $(function () {
                     }
                 },
                 "PE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Peru",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "PH": {
@@ -2386,24 +2386,24 @@ $(function () {
                     }
                 },
                 "PT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Portugal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "QA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Qatar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "DO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominican Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "RO": {
@@ -2428,66 +2428,66 @@ $(function () {
                     }
                 },
                 "RW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Rwanda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Rwanda</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "KN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Kitts And Nevis",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=San Marino",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "VC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Vincent And The Grenadines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Lucia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=El Salvador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "WS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Samoa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ST": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sao Tome And Principe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Senegal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "RS": {
@@ -2498,17 +2498,17 @@ $(function () {
                     }
                 },
                 "SC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Seychelles",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sierra Leone",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SG": {
@@ -2519,10 +2519,10 @@ $(function () {
                     }
                 },
                 "SK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovakia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SI": {
@@ -2533,31 +2533,31 @@ $(function () {
                     }
                 },
                 "SO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Somalia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=South Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "LK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sri Lanka",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SE": {
@@ -2575,45 +2575,45 @@ $(function () {
                     }
                 },
                 "SR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Suriname",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Swaziland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "SY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Syrian Arab Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tajikistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tanzania, United Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Chad",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "CZ": {
@@ -2638,138 +2638,138 @@ $(function () {
                     }
                 },
                 "TG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Togo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tonga",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Trinidad And Tobago",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tunisia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkmenistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkey",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "TV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tuvalu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "VU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Vanuatu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "VE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Venezuela, Bolivarian Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "VN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Viet Nam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Viet Nam</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Viet Nam</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "UA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ukraine",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "UY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uruguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "YE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Yemen",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ZM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Zambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Civilian Deaths : N/A"
                     }
                 },
                 "ZW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Zimbabwe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Civilian Deaths : 0"
+                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Civilian Deaths : N/A"
                     }
                 }
             },
             "plots": {
                 "paris": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Paris</span><br />Population: 1257410"
                     }
                 },
                 "newyork": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">New-York</span><br />Population: 741339"
                     }
                 },
                 "sydney": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Sydney</span><br />Population: 992774"
                     }
                 },
                 "brasilia": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Brasilia</span><br />Population: 639740"
                     }
                 },
                 "tokyo": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Tokyo</span><br />Population: 987219"
                     }
@@ -2779,220 +2779,220 @@ $(function () {
         "Famine and Disease": {
             "areas": {
                 "AF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Afghanistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Afghanistan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ZA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=South Africa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">South Africa</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Albania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Albania</span><br />Famine and Disease : N/A"
                     }
                 },
                 "DZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Algeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Algeria</span><br />Famine and Disease : N/A"
                     }
                 },
                 "DE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Germany",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Germany</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Andorra",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Andorra</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Angola",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Angola</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Antigua And Barbuda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Antigua And Barbuda</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saudi Arabia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saudi Arabia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Argentina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Argentina</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Armenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Armenia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Australia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Australia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Austria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Austria</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Azerbaijan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Azerbaijan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahamas",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bahamas</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bahrain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bahrain</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bangladesh",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bangladesh</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Barbados",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Barbados</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Belgium",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belgium</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Belize",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belize</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Benin",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Benin</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bhutan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bhutan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Belarus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Belarus</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Myanmar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Myanmar</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bolivia, Plurinational State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bolivia, Plurinational State Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bosnia And Herzegovina",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bosnia And Herzegovina</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Botswana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Botswana</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Brazil",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Brazil</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Brunei Darussalam",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Brunei Darussalam</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Bulgaria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Bulgaria</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Burkina Faso",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Burkina Faso</span><br />Famine and Disease : N/A"
                     }
                 },
                 "BI": {
@@ -3010,38 +3010,38 @@ $(function () {
                     }
                 },
                 "CM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cameroon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cameroon</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Canada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Canada</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cape Verde",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cape Verde</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CF": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Central African Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Central African Republic</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Chile",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Chile</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CN": {
@@ -3052,206 +3052,206 @@ $(function () {
                     }
                 },
                 "CY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cyprus",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cyprus</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Colombia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Colombia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Comoros",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Comoros</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Congo</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Congo, The Democratic Republic Of The",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Congo, The Democratic Republic Of The</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KP": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Democratic People's Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Democratic People's Republic Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Korea, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Korea, Republic Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Costa Rica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Costa Rica</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=C\u00d4te D'ivoire",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">C\u00d4te D'ivoire</span><br />Famine and Disease : N/A"
                     }
                 },
                 "HR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Croatia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Croatia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Cuba",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Cuba</span><br />Famine and Disease : N/A"
                     }
                 },
                 "DK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Denmark",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Denmark</span><br />Famine and Disease : N/A"
                     }
                 },
                 "DJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Djibouti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Djibouti</span><br />Famine and Disease : N/A"
                     }
                 },
                 "DM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Dominica</span><br />Famine and Disease : N/A"
                     }
                 },
                 "EG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Egypt",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Egypt</span><br />Famine and Disease : N/A"
                     }
                 },
                 "AE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=United Arab Emirates",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">United Arab Emirates</span><br />Famine and Disease : N/A"
                     }
                 },
                 "EC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ecuador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ecuador</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ER": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Eritrea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Eritrea</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ES": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Spain",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Spain</span><br />Famine and Disease : N/A"
                     }
                 },
                 "EE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Estonia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Estonia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "US": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=United States",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">United States</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ET": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ethiopia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ethiopia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "FJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Fiji",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Fiji</span><br />Famine and Disease : N/A"
                     }
                 },
                 "FI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Finland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Finland</span><br />Famine and Disease : N/A"
                     }
                 },
                 "FR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=France",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">France</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">France</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Gabon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Gabon</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Gambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Gambia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Georgia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Georgia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ghana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ghana</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GR": {
@@ -3262,101 +3262,101 @@ $(function () {
                     }
                 },
                 "GD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Grenada",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Grenada</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guatemala",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guatemala</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guinea</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GQ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Equatorial Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Equatorial Guinea</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guinea-bissau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guinea-bissau</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Guyana",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Guyana</span><br />Famine and Disease : N/A"
                     }
                 },
                 "HT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Haiti",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Haiti</span><br />Famine and Disease : N/A"
                     }
                 },
                 "HN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Honduras",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Honduras</span><br />Famine and Disease : N/A"
                     }
                 },
                 "HU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Hungary",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Hungary</span><br />Famine and Disease : N/A"
                     }
                 },
                 "JM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Jamaica",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Jamaica</span><br />Famine and Disease : N/A"
                     }
                 },
                 "JP": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Japan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Japan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Marshall Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Marshall Islands</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Palau",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Palau</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Solomon Islands",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Solomon Islands</span><br />Famine and Disease : N/A"
                     }
                 },
                 "IN": {
@@ -3374,87 +3374,87 @@ $(function () {
                     }
                 },
                 "JO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Jordan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Jordan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "IR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Iran, Islamic Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Iran, Islamic Republic Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "IQ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Iraq",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Iraq</span><br />Famine and Disease : N/A"
                     }
                 },
                 "IE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ireland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ireland</span><br />Famine and Disease : N/A"
                     }
                 },
                 "IS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Iceland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Iceland</span><br />Famine and Disease : N/A"
                     }
                 },
                 "IL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Israel",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Israel</span><br />Famine and Disease : N/A"
                     }
                 },
                 "IT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Italy",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Italy</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kazakhstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kazakhstan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kenya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kenya</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kyrgyzstan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kyrgyzstan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kiribati",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kiribati</span><br />Famine and Disease : N/A"
                     }
                 },
                 "KW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Kuwait",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Kuwait</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LA": {
@@ -3465,283 +3465,283 @@ $(function () {
                     }
                 },
                 "LS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lesotho",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lesotho</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Latvia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Latvia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lebanon",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lebanon</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Liberia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Liberia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Libya",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Libya</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Liechtenstein",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Liechtenstein</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Lithuania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Lithuania</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Luxembourg",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Luxembourg</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Macedonia, The Former Yugoslav Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Macedonia, The Former Yugoslav Republic Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Madagascar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Madagascar</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Malaysia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malaysia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Malawi",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malawi</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Maldives",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Maldives</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ML": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mali",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mali</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Malta",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Malta</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Morocco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Morocco</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritius",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mauritius</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mauritania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mauritania</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MX": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mexico",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mexico</span><br />Famine and Disease : N/A"
                     }
                 },
                 "FM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Micronesia, Federated States Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Micronesia, Federated States Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Moldova, Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Moldova, Republic Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Monaco",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Monaco</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mongolia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mongolia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ME": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Montenegro",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Montenegro</span><br />Famine and Disease : N/A"
                     }
                 },
                 "MZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Mozambique",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Mozambique</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Namibia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Namibia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NP": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nepal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nepal</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nicaragua",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nicaragua</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Niger",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Niger</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Nigeria",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Nigeria</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Norway",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Norway</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=New Zealand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">New Zealand</span><br />Famine and Disease : N/A"
                     }
                 },
                 "OM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Oman",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Oman</span><br />Famine and Disease : N/A"
                     }
                 },
                 "UG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uganda",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uganda</span><br />Famine and Disease : N/A"
                     }
                 },
                 "UZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uzbekistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uzbekistan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Pakistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Pakistan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Palestine, State Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Palestine, State Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Panama",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Panama</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Papua New Guinea",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Papua New Guinea</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Paraguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Paraguay</span><br />Famine and Disease : N/A"
                     }
                 },
                 "NL": {
@@ -3752,10 +3752,10 @@ $(function () {
                     }
                 },
                 "PE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Peru",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Peru</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PH": {
@@ -3766,45 +3766,45 @@ $(function () {
                     }
                 },
                 "PL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Poland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Poland</span><br />Famine and Disease : N/A"
                     }
                 },
                 "PT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Portugal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Portugal</span><br />Famine and Disease : N/A"
                     }
                 },
                 "QA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Qatar",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Qatar</span><br />Famine and Disease : N/A"
                     }
                 },
                 "DO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Dominican Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Dominican Republic</span><br />Famine and Disease : N/A"
                     }
                 },
                 "RO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Romania",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Romania</span><br />Famine and Disease : N/A"
                     }
                 },
                 "GB": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=United Kingdom",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">United Kingdom</span><br />Famine and Disease : N/A"
                     }
                 },
                 "RU": {
@@ -3822,269 +3822,269 @@ $(function () {
                     }
                 },
                 "KN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Kitts And Nevis",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Kitts And Nevis</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=San Marino",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">San Marino</span><br />Famine and Disease : N/A"
                     }
                 },
                 "VC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Vincent And The Grenadines",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Vincent And The Grenadines</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Saint Lucia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Saint Lucia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=El Salvador",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">El Salvador</span><br />Famine and Disease : N/A"
                     }
                 },
                 "WS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Samoa",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Samoa</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ST": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sao Tome And Principe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sao Tome And Principe</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Senegal",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Senegal</span><br />Famine and Disease : N/A"
                     }
                 },
                 "RS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Serbia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Serbia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SC": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Seychelles",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Seychelles</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sierra Leone",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sierra Leone</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Singapore",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Singapore</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovakia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Slovakia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SI": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Slovenia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Slovenia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Somalia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Somalia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sudan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SS": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=South Sudan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">South Sudan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "LK": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sri Lanka",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sri Lanka</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Sweden",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Sweden</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Switzerland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Switzerland</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Suriname",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Suriname</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Swaziland",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Swaziland</span><br />Famine and Disease : N/A"
                     }
                 },
                 "SY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Syrian Arab Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Syrian Arab Republic</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TJ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tajikistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tajikistan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tanzania, United Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tanzania, United Republic Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TD": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Chad",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Chad</span><br />Famine and Disease : N/A"
                     }
                 },
                 "CZ": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Czech Republic",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Czech Republic</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TH": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Thailand",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Thailand</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TL": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Timor-leste",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Timor-leste</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TG": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Togo",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Togo</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TO": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tonga",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tonga</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TT": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Trinidad And Tobago",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Trinidad And Tobago</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TN": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tunisia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tunisia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkmenistan",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Turkmenistan</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TR": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Turkey",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Turkey</span><br />Famine and Disease : N/A"
                     }
                 },
                 "TV": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Tuvalu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Tuvalu</span><br />Famine and Disease : N/A"
                     }
                 },
                 "VU": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Vanuatu",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Vanuatu</span><br />Famine and Disease : N/A"
                     }
                 },
                 "VE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Venezuela, Bolivarian Republic Of",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Venezuela, Bolivarian Republic Of</span><br />Famine and Disease : N/A"
                     }
                 },
                 "VN": {
@@ -4095,38 +4095,38 @@ $(function () {
                     }
                 },
                 "UA": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Ukraine",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Ukraine</span><br />Famine and Disease : N/A"
                     }
                 },
                 "UY": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Uruguay",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Uruguay</span><br />Famine and Disease : N/A"
                     }
                 },
                 "YE": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Yemen",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Yemen</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ZM": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Zambia",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Zambia</span><br />Famine and Disease : N/A"
                     }
                 },
                 "ZW": {
-                    "value": 0,
+                    "value": "null",
                     "href": "http://en.wikipedia.org/w/index.php?search=Zimbabwe",
                     "tooltip": {
-                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Famine and Disease : 0"
+                        "content": "<span style=\"font-weight:bold;\">Zimbabwe</span><br />Famine and Disease : N/A"
                     }
                 }
             },
@@ -4144,19 +4144,19 @@ $(function () {
                     }
                 },
                 "sydney": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Sydney</span><br />Population: 1034216"
                     }
                 },
                 "brasilia": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Brasilia</span><br />Population: 1088263"
                     }
                 },
                 "tokyo": {
-                    "value": 0,
+                    "value": "null",
                     "tooltip": {
                         "content": "<span style=\"font-weight:bold;\">Tokyo</span><br />Population: 1182471"
                     }
