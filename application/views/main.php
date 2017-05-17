@@ -121,7 +121,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         }
       </style>
       <div class="container">
-        <div class="col-md-3" id="war-power">
+        <div class="col-md-3 white" id="war-power">
           <p> World War II was the deadliest military conflict in history in absolute terms of total casualties. Over 60 million people were killed, which was about 3% of the 1940 world population (est. 2.3 billion). </p>
         </div>
         <div class="col-md-9">
@@ -144,9 +144,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   <!-- <input class="knob white" data-width="80" data-height="80" data-min="Military Deaths" data-max="Civilian Deaths" data-cursor=true
                          data-fgColor="#858585" data-thickness=.45 value="Military Deaths" data-bgColor="#c7e8ff"/> -->
                 <form>
-                  <label><input type="radio" name="casualties-detail" value="Military Deaths" checked>Military Deaths</label>
-                  <label><input type="radio" name="casualties-detail" value="Civilian Deaths">Civilian Deaths</label>
-                  <label><input type="radio" name="casualties-detail" value="Famine and Disease">Famine and Disease</label>
+                  <label class="white"><input type="radio" name="casualties-detail" value="Military Deaths" checked>Military Deaths</label>
+                  <label class="white"><input type="radio" name="casualties-detail" value="Civilian Deaths">Civilian Deaths</label>
+                  <label class="white"><input type="radio" name="casualties-detail" value="Famine and Disease">Famine and Disease</label>
                 </form>
               </div>
               <div class="areaLegend"></div>
